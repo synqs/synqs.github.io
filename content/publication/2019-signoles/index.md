@@ -13,7 +13,7 @@ authors:
 - Vincent Denechaud
 - Valentin V Volchkov
 - Vasiliki Angelopoulou
-- Fred Jendrzejewski
+- jendrzejewski
 - Alain Aspect
 - Laurent Sanchez-Palencia
 - Vincent Josse
@@ -24,6 +24,8 @@ lastmod: 2020-12-28T15:25:25+01:00
 featured: false
 draft: false
 
+# Display author profile cards at the end of the page
+profile: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -41,7 +43,7 @@ projects: []
 publishDate: '2020-12-28T14:25:24.998500Z'
 publication_types:
 - '2'
-abstract: We study the elastic scattering time $τ$S of ultracold atoms propagating
+abstract: We study the elastic scattering time $\tau_S$ of ultracold atoms propagating
   in optical disordered potentials in the strong scattering regime, going beyond the
   recent work of J. Richard et al., Phys. Rev. Lett. 122 100403 (2019). There, we
   identified the crossover between the weak and the strong scattering regimes by comparing
@@ -49,9 +51,9 @@ abstract: We study the elastic scattering time $τ$S of ultracold atoms propagat
   Here we focus specifically on the strong scattering regime, where first order Born
   approximation is not valid anymore and the scattering time is strongly influenced
   by the nature of the disorder. To interpret our observations, we connect the scattering
-  time $τ$S to the profiles of the spectral functions that we estimate using higher
+  time $τ_S$ to the profiles of the spectral functions that we estimate using higher
   order Born perturbation theory or self-consistent Born approximation. The comparison
-  reveals that self-consistent methods are well suited to describe $τ$S for Gaussian-distributed
+  reveals that self-consistent methods are well suited to describe $τ_S$ for Gaussian-distributed
   disorder, but fails for laser speckle disorder. For the latter, we show that the
   peculiar profiles of the spectral functions, as measured independently in V. Volchkov
   et al., Phys. Rev. Lett. 120, 060404 (2018), must be taken into account. Altogether
@@ -59,7 +61,10 @@ abstract: We study the elastic scattering time $τ$S of ultracold atoms propagat
   the elastic scattering time of matter waves, which is essential for future close
   comparison between theory and experiments, for instance regarding the ongoing studies
   on Anderson localization
-publication: '*New Journal of Physics*'
+publication: 'New Journal of Physics,  Vol. **21**, pp 105002'
+publication_short: "New J. Phys. **21**, 105002"
 url_pdf: http://iopscience.iop.org/10.1088/1367-2630/ab466f
 doi: 10.1088/1367-2630/ab466f
+# Enable math on this page?
+math: true
 ---

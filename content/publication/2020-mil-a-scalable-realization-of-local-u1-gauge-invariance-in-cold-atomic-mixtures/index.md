@@ -1,13 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A scalable realization of local U(1) gauge invariance in cold atomic mixtures"
-
-# List here only those authors who are group members (use the respective username)
-authors: [hauke]
-
-# If there are external authors, enter here the full list of authors (for group members use the respective username)
-all_authors: [Alexander Mil, Torsten V. Zache, Apoorva Hegde, Andy Xia, Rohit P. Bhatt, Markus K. Oberthaler, hauke, Jürgen Berges, Fred Jendrzejewski]
+title: 'A scalable realization of local U(1) gauge invariance in cold atomic mixtures'
+subtitle: ''
+summary: ''
+authors:
+- Alexander Mil
+- Torsten V. Zache
+- hegde
+- xia
+- bhatt
+- oberthaler
+- Philipp Hauke
+- Jürgen Berges
+- jendrzejewski
 
 date: 2020-03-06
 doi: "10.1126/science.aaz5312"
@@ -26,7 +32,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Science, Vol. 367, Issue 6482, pp. 1128--1130"
-publication_short: "Science **367** (6482)"
+publication_short: "Science **367**, 1128"
 
 abstract: In the fundamental laws of physics, gauge fields mediate the interaction between charged particles. An example is quantum electrodynamics -- the theory of electrons interacting with the electromagnetic field -- based on $U(1)$ gauge symmetry. Solving such gauge theories is in general a hard problem for classical computational techniques. While quantum computers suggest a way forward, it is difficult to build large-scale digital quantum devices required for complex simulations. Here, we propose a fully scalable analog quantum simulator of a $U(1)$ gauge theory in one spatial dimension. To engineer the local gauge symmetry, we employ inter-species spin-changing collisions in an atomic mixture. We demonstrate the experimental realization of the elementary building block as a key step towards a platform for large-scale quantum simulations of continuous gauge theories.
 
