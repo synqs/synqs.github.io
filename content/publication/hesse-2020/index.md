@@ -13,7 +13,7 @@ authors:
 - Vadim Vorobyov
 - Durga Dasari
 - Jörg Wrachtrup
-- Fred Jendrzejewski
+- jendrzejewski
 tags: []
 categories: []
 date: '2020-01-01'
@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["lattice-gauge"]
 publishDate: '2020-12-28T14:25:17.978686Z'
 publication_types:
 - '2'
@@ -50,6 +50,7 @@ abstract: In atomic physics experiments, magnetic fields allow to control the in
   time interval, ensuring high reproducibility of experiments. This approach extends
   the direct magnetic field control to high magnetic fields, which could enable new
   precise quantum simulations in this regime.
-publication: ''
-url_pdf: http://arxiv.org/abs/2003.08101
+publication: 'arxiv:2003.08101'
+url_preprint: http://arxiv.org/abs/2003.08101
+
 ---

@@ -8,9 +8,9 @@ authors:
 - T. Rentrop
 - A. Trautmann
 - F. A. Olivares
-- F. Jendrzejewski
+- jendrzejewski
 - A. Komnik
-- M. K. Oberthaler
+- oberthaler
 tags:
 - '"atomic and molecular physics"'
 categories: []
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["lattice-gauge"]
 publishDate: '2020-12-28T14:25:24.170617Z'
 publication_types:
 - '2'
@@ -47,7 +47,7 @@ abstract: In contrast to classical empty space, the quantum vacuum fundamentally
   model. Our observations establish this experimental platform as a new tool for precision
   benchmarking of open theoretical challenges, especially in the regime of strong
   coupling between the particles and the quantum vacuum.
-publication: '*Physical Review X*'
+publication: 'Phys. Rev. X **6**, 041041'
 url_pdf: http://arxiv.org/abs/1605.01874
 doi: 10.1103/PhysRevX.6.041041
 ---

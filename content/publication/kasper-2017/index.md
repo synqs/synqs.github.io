@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Valentin Kasper
 - F Hebenstreit
-- Fred Jendrzejewski
-- Markus K. Oberthaler
+- jendrzejewski
+- oberthaler
 - Jürgen Berges
 tags:
 - '"lattice gauge theory"'
@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["lattice-gauge"]
 publishDate: '2020-12-28T14:25:21.777902Z'
 publication_types:
 - '2'
@@ -55,7 +55,7 @@ abstract: We discuss the experimental engineering of model systems for the descr
   experimental resources. The experimental setup proposed may provide a unique access
   to longstanding open questions for which classical computational methods are no
   longer applicable.
-publication: '*New Journal of Physics*'
-url_pdf: http://arxiv.org/abs/1608.03480 http://dx.doi.org/10.1088/1367-2630/aa54e0
+publication: 'New J. Phys. **19**, 023030'
+url_pdf: http://dx.doi.org/10.1088/1367-2630/aa54e0
 doi: 10.1088/1367-2630/aa54e0
 ---
