@@ -1,6 +1,16 @@
 ---
 title: Dynamical Gauge Fields
 summary: Engineering high energy physics in table top experiments
+
+authors:
+- jendrzejewski
+- xia
+- hegde
+- hoecker
+- bhatt
+- kilinc
+
+lastmod: "2020-12-28T00:00:00Z"
 # tags:
 
 # Short title used in page links (if not set, defaults to title)
