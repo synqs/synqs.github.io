@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Research"
+title = "Projects"
 subtitle = ""
 
 [content]
@@ -35,7 +35,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -74,7 +74,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Our research is geared towards leveraging the potentials of synthetic quantum systems with the aim of developing novel quantum technologies such as quantum simulation, quantum computation, and quantum metrology.
-
-Go ahead and find out more about our research topics by clicking on the project cards below.
