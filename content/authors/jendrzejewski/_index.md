@@ -43,12 +43,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:fnj@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1488-7901
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/fretchen86
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-22MXD8AAAAJ
+
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/USERNAME
