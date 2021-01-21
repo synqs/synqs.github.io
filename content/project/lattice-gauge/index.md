@@ -10,6 +10,12 @@ authors:
 - bhatt
 - kilinc
 
+
+tags:
+- topics
+- ultracold atoms
+- quantum mechanics
+
 lastmod: "2020-12-28T00:00:00Z"
 # tags:
 

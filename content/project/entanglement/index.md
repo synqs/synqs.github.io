@@ -11,6 +11,11 @@ weight: 3
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+tags:
+- topics
+- ultracold atoms
+- quantum mechanics
+
 image:
   caption: "Multiple-quantum coherence spectrum as an entanglement wittness (source: [Phys. Rev. Lett. 120, 040402](/publication/2018-gaerttner))"
   focal_point: Smart
