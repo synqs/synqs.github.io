@@ -7,12 +7,11 @@ summary: ''
 authors:
 - Avinash Kumar
 - Stephen Eckel
-- Fred Jendrzejewski
+- jendrzejewski
 - Gretchen K. Campbell
-tags: []
+tags: ['jqi', 'atomtronics',  'superfluid', 'ultracold']
 categories: []
-date: '2017-01-01'
-lastmod: 2020-12-28T15:25:22+01:00
+date: '2017-02-24'
 featured: false
 draft: false
 
@@ -33,17 +32,17 @@ projects: []
 publishDate: '2020-12-28T14:25:22.333771Z'
 publication_types:
 - '2'
-abstract: We study howtemperature affects the lifetime of a quantized, persistent
+abstract: We study how temperature affects the lifetime of a quantized, persistent
   current state in a toroidal Bose-Einstein condensate. When the temperature is increased,
   we find a decrease in the persistent current lifetime. Comparing our measured decay
-  rates to simple models of thermal activation and quantum tunneling,wedo not find
+  rates to simple models of thermal activation and quantum tunneling, we do not find
   agreement. We also measured the size of the hysteresis loops in our superfluid ring
   as a function of temperature, enabling us to extract the critical velocity. The
   measured critical velocity is found to depend strongly on temperature, approaching
   the zero-temperature mean-field solution as the temperature is decreased. This indicates
   that an appropriate definition of critical velocity must incorporate the role of
-  thermalfluctuations, something not explicitly contained in traditional theories.
-publication: '*Physical Review A*'
+  thermal fluctuations, something not explicitly contained in traditional theories.
+publication: 'Physical Review A **95**, 021602(R)'
 url_pdf: http://arxiv.org/abs/1608.02894
 doi: 10.1103/PhysRevA.95.021602
 ---

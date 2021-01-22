@@ -11,8 +11,8 @@ authors:
 - xia
 - bhatt
 - oberthaler
-- Philipp Hauke
-- Jürgen Berges
+- hauke
+- berges
 - jendrzejewski
 
 date: 2020-03-06

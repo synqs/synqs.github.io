@@ -6,7 +6,7 @@ title: Universal quantum computation and quantum error correction with ultracold
 subtitle: ''
 summary: ''
 authors:
-- Valentin Kasper
+- kasper
 - Daniel González-Cuadra
 - Apoorva Hegde
 - Andy Xia
@@ -14,8 +14,8 @@ authors:
 - Felix Huber
 - Eberhard Tiemann
 - Maciej Lewenstein
-- Fred Jendrzejewski
-- Philipp Hauke
+- jendrzejewski
+- hauke
 tags: []
 categories: []
 date: '2020-01-01'

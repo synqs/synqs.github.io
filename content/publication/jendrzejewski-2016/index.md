@@ -5,14 +5,14 @@ title: Subwavelength-width optical tunnel junctions for ultracold atoms
 subtitle: ''
 summary: ''
 authors:
-- Fred Jendrzejewski
+- jendrzejewski
 - S Eckel
 - T G Tiecke
 - Gediminas Juzeliūnas
 - G K Campbell
 - Liang Jiang
 - A V Gorshkov
-tags: []
+tags: ['ultracold', 'tunneling', 'superfluid', 'theory', 'jqi']
 categories: []
 date: '2016-01-01'
 lastmod: 2020-12-28T15:25:20+01:00
@@ -45,6 +45,6 @@ abstract: We propose a new method for creating far-field optical barrier potenti
   as its applications to the study of many-body physics and to the implementation
   of quantum information protocols with ultracold atoms, are discussed, with a focus
   on the implementation of tunnel junctions.
-publication: '*Physical Review A*'
+publication: 'Phys. Rev. A **94**, 063422'
 doi: 10.1103/PhysRevA.94.063422
 ---

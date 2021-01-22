@@ -7,14 +7,13 @@ summary: ''
 authors:
 - S. Eckel
 - Jeffrey G. Lee
-- F. Jendrzejewski
+- jendrzejewski
 - C. J. Lobb
 - Gretchen K. Campbell
 - W. T. Hill
-tags: []
+tags: ['ultracold', 'atomtronics', 'jqi']
 categories: []
-date: '2016-06-01'
-lastmod: 2020-12-28T15:25:17+01:00
+date: '2016-06-15'
 featured: false
 draft: false
 
@@ -32,7 +31,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T14:25:17.195182Z'
 publication_types:
 - '2'
 abstract: 'We have experimentally measured transport of superfluid, bosonic atoms
@@ -49,7 +47,7 @@ abstract: 'We have experimentally measured transport of superfluid, bosonic atom
   that, for fermions, would lead to a conductance of only a few $h^-1$. By contrast,
   in our bosonic system, we observe conductances of thousands of $h^-1$, showing the
   definitive role played by particle statistics.'
-publication: '*Physical Review A*'
+publication: 'Physical Review A **93**, 063619'
 url_pdf: http://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.063619 http://link.aps.org/doi/10.1103/PhysRevA.93.063619
 doi: 10.1103/PhysRevA.93.063619
 ---

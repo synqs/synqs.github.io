@@ -41,7 +41,7 @@ abstract: We propose to implement a quantized thermal machine based on a mixture
   cycle and discuss the prospects for continuous-cycle operation, addressing the experimental
   as well as theoretical limitations. Beyond its applicative significance, this setup
   has a potential for the study of fundamental questions of quantum thermodynamics.
-publication: '*Quantum*'
+publication: 'Quantum **3**, 155'
 url_pdf: https://quantum-journal.org/papers/q-2019-06-28-155/
 doi: 10.22331/q-2019-06-28-155
 ---

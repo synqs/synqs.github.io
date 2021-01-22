@@ -9,16 +9,15 @@ authors:
 - S Subhankar
 - Y Wang
 - T-c Tsui
-- F Jendrzejewski
+- jendrzejewski
 - T Tiecke
 - L Jiang
 - S L Rolston
 - J V Porto
 - A V Gorshkov
-tags: []
+tags: ['ultracold', 'jqi', 'theory']
 categories: []
-date: '2018-01-01'
-lastmod: 2020-12-28T15:25:16+01:00
+date: '2018-07-07'
 featured: false
 draft: false
 
@@ -36,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T14:25:16.365783Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*arXiv*'
+abstract: 'There has been a recent surge of interest and progress in creating subwavelength free-space optical potentials for ultracold atoms. A key open question is whether geometric potentials, which are repulsive and ubiquitous in the creation of subwavelength free-space potentials, forbid the creation of narrow traps with long lifetimes. Here, we show that it is possible to create such traps. We propose two schemes for realizing subwavelength traps and demonstrate their superiority over existing proposals. We analyze the lifetime of atoms in such traps and show that long-lived bound states are possible. This work allows for subwavelength control and manipulation of ultracold matter, with applications in quantum chemistry and quantum simulation.'
+publication: 'Phys. Rev. A **122**, 013306'
+doi: 10.1103/PhysRevA.102.013306
 ---

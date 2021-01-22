@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'From the Jaynes–Cummings model to non-abelian gauge theories: a guided tour for the quantum engineer Valentin'
+title: 'From the Jaynes–Cummings model to non-abelian gauge theories: a guided tour for the quantum engineer'
 subtitle: ''
 summary: ''
 authors:
