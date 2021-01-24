@@ -6,8 +6,8 @@ title: Nonlinear absorption and density-dependent dephasing in Rydberg electroma
 subtitle: ''
 summary: ''
 authors:
-- Martin Gärttner
-- J̈̊g Evers
+- gaerttner
+- Jörg Evers
 tags: []
 categories: []
 date: '2013-09-01'
@@ -33,7 +33,7 @@ publishDate: '2021-01-22T09:35:24.076770Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. A*'
+publication: 'Phys. Rev. A **88**, 033417'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevA.88.033417
 doi: 10.1103/PhysRevA.88.033417
 ---

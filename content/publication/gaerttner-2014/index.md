@@ -6,10 +6,10 @@ title: Semianalytical model for nonlinear absorption in strongly interacting Ryd
 subtitle: ''
 summary: ''
 authors:
-- Martin Gärttner
+- gaerttner
 - Shannon Whitlock
 - David W. Sch\n̈leber
-- J\"g̈ Evers
+- Jörg Evers
 tags: []
 categories: []
 date: '2014-06-01'
@@ -35,7 +35,7 @@ publishDate: '2021-01-22T09:35:22.096411Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. A*'
+publication: 'Phys. Rev. A **89**, 063407'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevA.89.063407
 doi: 10.1103/PhysRevA.89.063407
 ---

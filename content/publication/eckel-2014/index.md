@@ -1,23 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Hysteresis in a quantized superfluid 'atomtronic' circuit.
+title: Hysteresis in a quantized superfluid 'atomtronic' circuit
 subtitle: ''
 summary: ''
 authors:
 - Stephen Eckel
 - Jeffrey G. Lee
-- Fred Jendrzejewski
+- jendrzejewski
 - Noel Murray
 - Charles W. Clark
 - Christopher J. Lobb
 - William D. Phillips
 - Mark Edwards
 - Gretchen K. Campbell
-tags: []
+tags: ['jqi', 'hysteresis', 'superfluid', 'ultracold']
 categories: []
-date: '2014-02-01'
-lastmod: 2020-12-28T15:25:17+01:00
+date: '2014-02-13'
 featured: false
 draft: false
 
@@ -60,7 +59,7 @@ abstract: Atomtronics is an emerging interdisciplinary field that seeks to devel
   of practical devices, just as it has in electronic circuits such as memories, digital
   noise filters (for example Schmitt triggers) and magnetometers (for example superconducting
   quantum interference devices).
-publication: '*Nature*'
+publication: 'Nature **506**, 200'
 url_pdf: http://www.nature.com/doifinder/10.1038/nature12958
 doi: 10.1038/nature12958
 ---

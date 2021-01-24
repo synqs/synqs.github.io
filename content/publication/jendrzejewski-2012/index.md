@@ -5,7 +5,7 @@ title: Coherent Backscattering of Ultracold Atoms
 subtitle: ''
 summary: ''
 authors:
-- Fred Jendrzejewski
+- jendrzejewski
 - Kilian Müller
 - Jeremie Richard
 - Aditya Date
@@ -13,7 +13,7 @@ authors:
 - Philippe Bouyer
 - Alain Aspect
 - Vincent Josse
-tags: []
+tags: ['iogs', 'localization', 'disordered', 'ultracold']
 categories: []
 date: '2012-11-01'
 lastmod: 2020-12-28T15:25:21+01:00
@@ -34,7 +34,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T14:25:20.698149Z'
 publication_types:
 - '2'
 abstract: We report on the direct observation of coherent backscattering (CBS) of
@@ -47,9 +46,9 @@ abstract: We report on the direct observation of coherent backscattering (CBS) o
   the time evolution of the CBS peak and find it in fair agreement with predictions,
   at long times as well as at short times. The observation of CBS can be considered
   a direct signature of coherence in quantum transport of particles in disordered
-  media. It is responsible for the so calledweaklocalizationphenomenon,which is the
-  precursor ofAnderson localization.
-publication: '*Physical Review Letters*'
+  media. It is responsible for the so called weak localization phenomenon, which is the
+  precursor of Anderson localization.
+publication: 'Phys. Rev. Lett. **109**, 195302'
 url_pdf: http://link.aps.org/doi/10.1103/PhysRevLett.109.195302
 doi: 10.1103/PhysRevLett.109.195302
 ---

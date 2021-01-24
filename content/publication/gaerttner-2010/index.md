@@ -5,7 +5,7 @@ title: Quantum scattering in driven single- and double-barrier systems
 subtitle: ''
 summary: ''
 authors:
-- Martin Gärttner
+- gaerttner
 - Florian Lenz
 - Christoph Petri
 - Fotis K. Diakonos
@@ -35,7 +35,7 @@ publishDate: '2021-01-22T09:35:25.203548Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. E*'
+publication: 'Phys. Rev. E **81**, 051136'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevE.81.051136
 doi: 10.1103/PhysRevE.81.051136
 ---

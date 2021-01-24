@@ -5,7 +5,7 @@ title: Disorder-driven transition in a chain with power-law hopping
 subtitle: ''
 summary: ''
 authors:
-- M. Gärttner
+- gaerttner
 - S. V. Syzranov
 - A. M. Rey
 - V. Gurarie
@@ -35,7 +35,7 @@ publishDate: '2021-01-22T09:35:20.994270Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. B*'
+publication: 'Phys. Rev. B **92**, 041406'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevB.92.041406
 doi: 10.1103/PhysRevB.92.041406
 ---

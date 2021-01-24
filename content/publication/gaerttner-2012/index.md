@@ -5,10 +5,10 @@ title: Finite-size effects in strongly interacting Rydberg gases
 subtitle: ''
 summary: ''
 authors:
-- Martin Gärttner
+- gaerttner
 - Kilian P. Heeg
 - Thomas Gasenzer
-- J̈̊g Evers
+- Jörg Evers
 tags: []
 categories: []
 date: '2012-09-01'
@@ -34,7 +34,7 @@ publishDate: '2021-01-22T09:35:24.349812Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. A*'
+publication: 'Phys. Rev. A **86**, 033422'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevA.86.033422
 doi: 10.1103/PhysRevA.86.033422
 ---

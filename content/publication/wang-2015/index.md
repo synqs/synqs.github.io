@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Yi-Hsieh Wang
 - A. Kumar
-- F. Jendrzejewski
+- jendrzejewski
 - Ryan M. Wilson
 - Mark Edwards
 - S. Eckel
@@ -19,11 +19,11 @@ tags:
 - '"atomtronics"'
 - '"quasiparticle"'
 - '"shock waves"'
-- '"sodium"'
-- '"soliton"'
+- 'sodium'
+- 'soliton'
+- 'jqi'
 categories: []
-date: '2015-01-01'
-lastmod: 2020-12-28T15:25:25+01:00
+date: '2015-12-17'
 featured: false
 draft: false
 
@@ -41,7 +41,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T14:25:25.480787Z'
 publication_types:
 - '2'
 abstract: The fundamental dynamics of ultracold atomtronic devices are reflected in
@@ -56,7 +55,7 @@ abstract: The fundamental dynamics of ultracold atomtronic devices are reflected
   Gross-Pitaevskii equation exhibit quantitative agreement with the experimental data.
   We also observe the generation of supersonic shock waves under conditions of strong
   excitation, and collisions of two shock wavepackets.
-publication: '*New Journal of Physics*'
+publication: 'New J. Phys. **17**, 125012'
 url_pdf: http://arxiv.org/abs/1510.02968
 doi: 10.1088/1367-2630/17/12/125012
 ---

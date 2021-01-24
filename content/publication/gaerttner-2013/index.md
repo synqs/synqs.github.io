@@ -6,7 +6,7 @@ title: Fine structure of open-shell diatomic molecules in combined electric and 
 subtitle: ''
 summary: ''
 authors:
-- Martin Gärttner
+- gaerttner
 - Juan J. Omiste
 - Peter Schmelcher
 - Rosario González-F\ŕez
@@ -35,7 +35,7 @@ publishDate: '2021-01-22T09:35:24.676958Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Mol. Phys.*'
+publication: 'Mol. Phys. **111**, 1865'
 url_pdf: https://doi.org/10.1080/00268976.2013.799296
 doi: 10.1080/00268976.2013.799296
 ---

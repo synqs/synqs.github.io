@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Andreas Fischer
-- Martin Gärttner
+- gaerttner
 - Philipp C̈̊lin
 - Alexander Sperl
-- Michael Sch\"ẅald
+- Michael Schüwald
 - Tomoya Mizuno
 - Giuseppe Sansone
 - Arne Senftleben
@@ -42,7 +42,7 @@ publishDate: '2021-01-22T09:35:20.537021Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. A*'
+publication: 'Phys. Rev. A **93**, 012507'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevA.93.012507
 doi: 10.1103/PhysRevA.93.012507
 ---

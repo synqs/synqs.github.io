@@ -6,7 +6,7 @@ title: Three-dimensional localization of ultracold atoms in an optical disordere
 subtitle: ''
 summary: ''
 authors:
-- Fred Jendrzejewski
+- jendrzejewski
 - Alain Bernard
 - Kilian Müller
 - Patrick Cheinet
@@ -16,10 +16,9 @@ authors:
 - Laurent Sanchez-Palencia
 - Alain Aspect
 - Philippe Bouyer
-tags: []
+tags: ['iogs', 'disordered', 'ultracold', 'Anderson localization']
 categories: []
-date: '2012-01-01'
-lastmod: 2020-12-28T15:25:20+01:00
+date: '2012-05-01'
 featured: false
 draft: false
 
@@ -37,7 +36,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T14:25:19.727105Z'
 publication_types:
 - '2'
 abstract: In disordered media, quantum interference effects are expected to induce
@@ -45,7 +43,7 @@ abstract: In disordered media, quantum interference effects are expected to indu
   has a counterpart with classical waves that has been observed in acoustics, electromagnetism
   and optics, but a direct observation for particles remains elusive. Here, we report
   the observation of the three-dimensional localization of ultracold atoms in a disordered
-  potential created by a speckle laser field.Aphenomenological analysis of our data
+  potential created by a speckle laser field.A phenomenological analysis of our data
   distinguishes a localized component of the resulting density profile from a diffusive
   component. The observed localization cannot be interpreted as the classical trapping
   of particles with energy below the classical percolation threshold in the disorder,
@@ -53,7 +51,7 @@ abstract: In disordered media, quantum interference effects are expected to indu
   our data are compatible with the self-consistent theory of Anderson localization
   tailored to our system, involving a heuristic energy shift that offers scope for
   future interpretation.
-publication: '*Nature Physics*'
+publication: 'Nature Phys. **8**, 398'
 url_pdf: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys2256.html
 doi: 10.1038/NPHYS2256
 ---

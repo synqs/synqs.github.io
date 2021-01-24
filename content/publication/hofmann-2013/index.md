@@ -9,10 +9,10 @@ authors:
 - G. Günter
 - H. Schempp
 - M. Robert-de-Saint-Vincent
-- M. G̈̊ttner
+- gaerttner
 - J. Evers
 - S. Whitlock
-- M. Weidem\"l̈er
+- M. Weidemüller
 tags: []
 categories: []
 date: '2013-05-01'
@@ -38,7 +38,7 @@ publishDate: '2021-01-22T09:35:23.504478Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. Lett.*'
+publication: 'Phys. Rev. Lett. **110**, 203601'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevLett.110.203601
 doi: 10.1103/PhysRevLett.110.203601
 ---

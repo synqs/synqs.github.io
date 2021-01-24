@@ -5,10 +5,10 @@ title: Collective Excitation of Rydberg-Atom Ensembles beyond the Superatom Mode
 subtitle: ''
 summary: ''
 authors:
-- Martin Gärttner
+- gaerttner
 - Shannon Whitlock
 - David W. Sch\n̈leber
-- J\"g̈ Evers
+- Jörgs Evers
 tags: []
 categories: []
 date: '2014-12-01'
@@ -34,7 +34,7 @@ publishDate: '2021-01-22T09:35:21.703019Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. Lett.*'
+publication: 'Phys. Rev. Lett. **113**, 233002'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevLett.113.233002
 doi: 10.1103/PhysRevLett.113.233002
 ---

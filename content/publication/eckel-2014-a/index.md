@@ -7,26 +7,17 @@ subtitle: ''
 summary: ''
 authors:
 - S Eckel
-- F Jendrzejewski
+- jendrzejewski
 - A Kumar
 - C. J. Lobb
 - G. K. Campbell
 tags:
-- '"1"'
-- '"2"'
-- '"3"'
-- '"a variety of quantum"'
-- '"and quantum interference"'
-- '"atomic and molecular physics"'
-- '"can be observed"'
-- '"condensed matter physics"'
-- '"effects"'
-- '"phenomena"'
-- '"such as josephson"'
-- '"superfluidity"'
+- atomtronics
+- jqi
+- Superfluid
+- 'weak link'
 categories: []
-date: '2014-09-01'
-lastmod: 2020-12-28T15:25:17+01:00
+date: '2014-09-22'
 featured: false
 draft: false
 
@@ -44,11 +35,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T14:25:16.766310Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Physical Review X*'
+abstract: 'Weak connections between superconductors or superfluids can differ from classical links due to
+quantum coherence, which allows flow without resistance. Transport properties through such weak links can be described with a single function, the current-phase relationship, which serves as the quantum analog of the current-voltage relationship. Here, we present a technique for inteferometrically measuring the current-phase relationship of superfluid weak links. We interferometrically measure the phase gradient around a ring-shaped superfluid Bose-Einstein condensate containing a rotating weak link, allowing us to identify the current flowing around the ring. While our Bose-Einstein condensate weak link operates in the hydrodynamic regime, this technique can be extended to all types of weak links (including tunnel junctions) in any phase-coherent quantum gas. Moreover, it can also measure the current-phase relationships of excitations. Such measurements may open new avenues of research in quantum transport.'
+publication: 'Phys. Rev. X **4**, 031052'
 url_pdf: http://link.aps.org/doi/10.1103/PhysRevX.4.031052
 doi: 10.1103/PhysRevX.4.031052
 ---

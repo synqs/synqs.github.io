@@ -5,17 +5,16 @@ title: Resistive Flow in a Weakly Interacting Bose-Einstein Condensate
 subtitle: ''
 summary: ''
 authors:
-- F Jendrzejewski
+- jendrzejewski
 - S Eckel
 - N Murray
 - C Lanier
 - M Edwards
 - C. J. Lobb
 - G. K. Campbell
-tags: []
+tags: ['jqi', 'atomtronics', 'superfluid', 'resistivity']
 categories: []
-date: '2014-07-01'
-lastmod: 2020-12-28T15:25:19+01:00
+date: '2014-07-25'
 featured: false
 draft: false
 
@@ -33,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T14:25:18.629606Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Physical Review Letters*'
+abstract: 'We report the direct observation of resistive flow through a weak link in a weakly interacting atomic
+Bose-Einstein condensate. Two weak links separate our ring-shaped superfluid atomtronic circuit into two distinct regions, a source and a drain. Motion of these weak links allows for creation of controlled flow between the source and the drain. At a critical value of the weak link velocity, we observe a transition from superfluid flow to superfluid plus resistive flow. Working in the hydrodynamic limit, we observe a conductivity that is 4 orders of magnitude larger than previously reported conductivities for a Bose-Einstein condensate with a tunnel junction. Good agreement with zero-temperature Gross-Pitaevskii simulations and a phenomenological model based on phase slips indicate that the creation of excitations plays an important role in the resulting conductivity. Our measurements of resistive flow elucidate the microscopic origin of the dissipation and pave the way for more complex atomtronic devices.'
+publication: 'Phys. Rev. Lett. **113**, 045305'
 url_pdf: http://link.aps.org/doi/10.1103/PhysRevLett.113.045305
 doi: 10.1103/PhysRevLett.113.045305
 ---

@@ -5,10 +5,10 @@ title: Dynamic formation of Rydberg aggregates at off-resonant excitation
 subtitle: ''
 summary: ''
 authors:
-- Martin Gärttner
+- gaerttner
 - Kilian P. Heeg
-- Thomas Gasenzer
-- J̈̊g Evers
+- gasenzer
+- Jörg Evers
 tags: []
 categories: []
 date: '2013-10-01'
@@ -34,7 +34,7 @@ publishDate: '2021-01-22T09:35:23.782771Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. A*'
+publication: 'Phys. Rev. A **88**, 043410'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevA.88.043410
 doi: 10.1103/PhysRevA.88.043410
 ---

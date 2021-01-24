@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Jacob P. Covey
 - Steven A. Moses
-- Martin Gärttner
+- gaerttner
 - Arghavan Safavi-Naini
 - Matthew T. Miecnikowski
 - Zhengkun Fu
@@ -53,7 +53,7 @@ abstract: Polar molecules in an optical lattice provide a versatile platform to 
   lattice by measuring the inelastic loss of doublons. These techniques realize tools
   that are generically applicable to studying the complex dynamics of atomic mixtures
   in optical lattices.
-publication: '*Nat. Commun.*'
+publication: 'Nat. Commun. **7**, 11279'
 url_pdf: https://doi.org/10.1038/ncomms11279
 doi: 10.1038/ncomms11279
 ---

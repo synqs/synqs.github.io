@@ -5,7 +5,7 @@ title: Heralded $W$-state preparation using laser-designed superatoms
 subtitle: ''
 summary: ''
 authors:
-- Martin Gärttner
+- gaerttner
 tags: []
 categories: []
 date: '2015-07-01'
@@ -31,7 +31,7 @@ publishDate: '2021-01-22T09:35:21.348002Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. A*'
+publication: 'Phys. Rev. A **92**, 013629'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevA.92.013629
 doi: 10.1103/PhysRevA.92.013629
 ---

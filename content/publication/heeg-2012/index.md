@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Kilian P. Heeg
-- Martin Gärttner
-- J̈̊g Evers
+- gaerttner
+- Jörg Evers
 tags: []
 categories: []
 date: '2012-12-01'
@@ -33,7 +33,7 @@ publishDate: '2021-01-22T09:35:23.202070Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev. A*'
+publication: 'Phys. Rev. A **86**, 063421'
 url_pdf: https://link.aps.org/doi/10.1103/PhysRevA.86.063421
 doi: 10.1103/PhysRevA.86.063421
 ---

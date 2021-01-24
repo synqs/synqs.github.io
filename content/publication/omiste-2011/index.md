@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - J. J. Omiste
-- M. Gärttner
+- gaerttner
 - P. Schmelcher
 - R. González-F\ŕez
 - L. Holmegaard
@@ -39,7 +39,7 @@ publishDate: '2021-01-22T09:35:24.950270Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Chem. Chem. Phys.*'
+publication: 'Phys. Chem. Chem. Phys. **13**, 18815'
 url_pdf: http://dx.doi.org/10.1039/C1CP21195A
 doi: 10.1039/C1CP21195A
 ---
