@@ -1,6 +1,6 @@
 ---
 title: Martin Gärttner
-role: Researcher
+role: Group leader
 authors:
 - gaerttner
 
@@ -16,6 +16,9 @@ superuser: false
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: http://www.kip.uni-heidelberg.de/matterwave/
 - icon: envelope
   icon_pack: fas
   link: "mailto:martin.gaerttner@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
