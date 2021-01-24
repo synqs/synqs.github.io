@@ -18,17 +18,13 @@ superuser: false
 social:
 - icon: link
   icon_pack: fas
-  link: https://www.kip.uni-heidelberg.de/user/marting/
+  link: https://www.kip.uni-heidelberg.de/gasenzer
 - icon: envelope
   icon_pack: fas
-  link: "mailto:t.gasenzer@uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/fretchen86
+  link: "mailto:t.gasenzer@uni-heidelberg.de"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ELCB2aMAAAAJ
-
 
 # - icon: github
 #   icon_pack: fab

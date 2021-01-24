@@ -18,7 +18,7 @@ superuser: false
 social:
 - icon: link
   icon_pack: fas
-  link: http://www.kip.uni-heidelberg.de/matterwave/
+  link: https://www.kip.uni-heidelberg.de/user/marting/
 - icon: envelope
   icon_pack: fas
   link: "mailto:martin.gaerttner@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
