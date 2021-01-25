@@ -11,7 +11,7 @@ authors:
 title_short: Atta
 
 # Determines ordering of projects
-weight: 2
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -1,15 +1,12 @@
 ---
-title: Dynamical Gauge Fields
-summary: Engineering high energy physics in table top experiments
+title: Physical Computation
+summary: Calculations with quantum and neuromorphic hardware.
 
 authors:
 - jendrzejewski
-- xia
-- hegde
-- hoecker
-- bhatt
-- kilinc
-
+- oberthaler
+- gasenzer
+- gaerttner
 
 tags:
 - topics
@@ -23,7 +20,7 @@ lastmod: "2020-12-28T00:00:00Z"
 # title_short:
 
 # Determines ordering of projects
-weight: 4
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

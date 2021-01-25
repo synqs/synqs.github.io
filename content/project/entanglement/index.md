@@ -16,7 +16,7 @@ authors:
 - oberthaler
 
 # Determines ordering of projects
-weight: 3
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
