@@ -39,4 +39,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-11-07
+projects:
+- correlation
 ---

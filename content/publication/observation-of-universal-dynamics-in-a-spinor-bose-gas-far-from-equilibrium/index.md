@@ -44,6 +44,9 @@ abstract: The dynamics of quantum systems far from equilibrium represents one of
   chromodynamics.
 draft: false
 featured: false
+projects:
+- BEC machine
+- correlation
 image:
   filename: featured
   focal_point: Smart

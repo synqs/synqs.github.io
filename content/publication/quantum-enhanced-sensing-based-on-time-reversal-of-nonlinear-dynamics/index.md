@@ -19,4 +19,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2016-06-28
+projects:
+- entanglement
 ---

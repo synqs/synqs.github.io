@@ -41,4 +41,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-06-15
+projects:
+- correlation
 ---

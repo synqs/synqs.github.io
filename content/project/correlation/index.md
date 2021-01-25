@@ -3,11 +3,20 @@ title: Correlations
 summary: Tracing quantum waves
 # tags:
 
+authors:
+- pruefer
+- strobel
+- schmied
+- lannig
+- strobel
+- gasenzer
+- oberthaler
+
 # Short title used in page links (if not set, defaults to title)
-title_short: Measurement Tools
+title_short:
 
 # Determines ordering of projects
-weight: 1
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,7 +33,7 @@ tags:
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "Entanglement certification with quench dynamics (source: [arXiv:2005.03049](/publication/2020-costa-de-almeida))"
+  caption: ""
   focal_point: "Smart"
   # preview_only: false
   # alt_text: An optional description of the image for screen readers.

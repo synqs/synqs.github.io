@@ -5,6 +5,16 @@ summary: Harnessing quantum correlations
 # Short title used in page links (if not set, defaults to title)
 title_short: Entanglement
 
+authors:
+- pruefer
+- strobel
+- schmied
+- lannig
+- strobel
+- gasenzer
+- gaerttner
+- oberthaler
+
 # Determines ordering of projects
 weight: 3
 

@@ -1,6 +1,6 @@
 ---
 title: ATTA
-summary: tom Trace Analysis for water dating
+summary: Atom Trace Analysis for water dating
 authors:
 - ringena
 - robertz
