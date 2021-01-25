@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Adrian Brämer"
+title: "Adrian Braemer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -22,6 +22,7 @@ organizations:
 
 # List each interest with a dash
 interests:
+- Thermalization in closed Quantum Systems
 - Cold Atoms
 - Quantum Simulation
 
