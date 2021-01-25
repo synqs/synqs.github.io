@@ -39,6 +39,8 @@ abstract: Radiometric dating with 39Ar covers a unique time span and offers key
   key to decipher so far untapped glacier archives of the last millennium.
 draft: false
 featured: false
+projects:
+- water-dating
 image:
   filename: featured
   focal_point: Smart

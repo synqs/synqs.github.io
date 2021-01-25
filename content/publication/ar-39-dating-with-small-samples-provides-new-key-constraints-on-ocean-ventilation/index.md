@@ -14,6 +14,8 @@ authors:
   - Werner Aeschbach
   - oberthaler
 doi: 10.1038/s41467-018-07465-7
+projects:
+- water-dating
 publication: Nature Communications **9**, 20
 draft: false
 featured: false

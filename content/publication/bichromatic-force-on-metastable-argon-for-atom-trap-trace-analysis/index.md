@@ -25,6 +25,8 @@ abstract: For an efficient performance of atom-trap trace analysis, it is
   trace analysis of argon-39 and other noble gas experiments, where a high flux
   of metastable atoms is needed.
 draft: false
+projects:
+- water-dating
 featured: false
 image:
   filename: featured

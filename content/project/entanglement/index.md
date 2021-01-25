@@ -17,7 +17,7 @@ tags:
 - quantum mechanics
 
 image:
-  caption: "Multiple-quantum coherence spectrum as an entanglement wittness (source: [Phys. Rev. Lett. 120, 040402](/publication/2018-gaerttner))"
+  caption: ""
   focal_point: Smart
 
 # links:
