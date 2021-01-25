@@ -2,7 +2,7 @@
 title: Stability analysis of ground states in a one-dimensional trapped spin-1
   Bose gas
 publication_types:
-  - "0"
+  - "2"
 authors:
   - schmied
   - gasenzer

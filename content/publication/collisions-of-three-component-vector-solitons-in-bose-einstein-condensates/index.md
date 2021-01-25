@@ -3,15 +3,15 @@ title: Collisions of Three-Component Vector Solitons in Bose-Einstein Condensate
 publication_types:
   - "2"
 authors:
-  - Stefan Lannig
-  - Christian-Marcel Schmied
-  - Maximilian Prüfer
+  - lannig
+  - schmied
+  - pruefer
   - Philipp Kunkel
   - Robin Strohmaier
-  - Helmut Strobel
-  - Thomas Gasenzer
+  - strobel
+  - gasenzer
   - Panayotis G. Kevrekidis
-  - and Markus K. Oberthaler
+  - oberthaler
 doi: 10.1103/PhysRevLett.125.170401
 publication: Phys. Rev. Lett. **125**, 170401
 abstract: Ultracold gases provide an unprecedented level of control for the
@@ -30,5 +30,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:01:11.245Z
+date: 2020-10-22
 ---

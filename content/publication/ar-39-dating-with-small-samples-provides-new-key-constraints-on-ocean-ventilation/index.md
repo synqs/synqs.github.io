@@ -8,8 +8,8 @@ authors:
   - Arne Kersting
   - Tim Stöven
   - Zhongyi Feng
-  - Lisa Ringena
-  - Maximilian Schmidt
+  - ringena
+  - schmidt
   - Toste Tanhua
   - Werner Aeschbach
   - oberthaler

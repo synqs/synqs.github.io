@@ -38,5 +38,5 @@ user_groups:
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 202
+weight: 222
 ---

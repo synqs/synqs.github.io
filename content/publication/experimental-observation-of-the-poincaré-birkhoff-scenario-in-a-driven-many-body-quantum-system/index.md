@@ -2,7 +2,7 @@
 title: Experimental observation of the Poincaré-Birkhoff scenario in a driven
   many-body quantum system
 publication_types:
-  - "0"
+  - "2"
 authors:
   - J. Tomkovič
   - W. Muessel

@@ -1,7 +1,7 @@
 ---
 title: Universal equilibrium scaling functions at short times after a quench
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Markus Karl
   - Halil Cakir

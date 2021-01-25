@@ -6,8 +6,8 @@ authors:
   - Zhongyi Feng
   - Pascal Bohleber
   - Sven Ebser
-  - Lisa Ringena
-  - Maximilian Schmidt
+  - ringena
+  - schmidt
   - Arne Kersting
   - Philip Hopkins
   - Helene Hoffmann
