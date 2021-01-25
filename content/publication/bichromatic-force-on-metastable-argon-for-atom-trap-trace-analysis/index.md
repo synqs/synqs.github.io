@@ -7,9 +7,9 @@ authors:
   - S. Ebser
   - L. Ringena
   - F. Ritterbusch
-  - and M. K. Oberthaler
+  - oberthaler
 doi: 10.1103/PhysRevA.96.013424
-publication: Phys. Rev. A 96, 013424
+publication: Phys. Rev. A **96**, 013424
 abstract: For an efficient performance of atom-trap trace analysis, it is
   important to collimate the particles emitted from an effusive source. Their
   high velocity limits the interaction time with the cooling laser. Therefore,
@@ -30,5 +30,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:21:22.264Z
+date: 2017-07-25
 ---

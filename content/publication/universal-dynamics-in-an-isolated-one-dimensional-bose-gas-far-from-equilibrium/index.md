@@ -5,9 +5,11 @@ publication_types:
 authors:
   - Sebastian Erne
   - Robert Buecker
-  - Thomas Gasenzer
-  - Juergen Berges and Joerg Schmiedmayer
+  - gasenzer
+  - berges
+  - Joerg Schmiedmayer
 doi: 10.1038/s41586-018-0667-0
+publication: Phys. Rev. A **563**, 225
 abstract: Understanding the behaviour of isolated quantum systems far from
   equilibrium and their equilibration is one of the most pressing problems in
   quantum many-body physics1,2. There is strong theoretical evidence that
@@ -36,5 +38,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:16:09.807Z
+date: 2018-11-07
 ---

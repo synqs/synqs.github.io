@@ -1,12 +1,13 @@
 ---
 title: Formation of Bose-Einstein condensates
 publication_types:
-  - "2"
+  - "6"
 authors:
   - M. J. Davis
   - T. M. Wright
-  - T. Gasenzer
-  - S. A. Gardiner and N. P. Proukakis
+  - gasenzer
+  - S. A. Gardiner
+  - N. P. Proukakis
 doi: 10.1017/9781316084366.009
 abstract: The problem of understanding how a coherent, macroscopic Bose-Einstein
   condensate (BEC) emerges from the cooling of a thermal Bose gas has attracted
@@ -29,5 +30,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:22:32.220Z
+date: 2017-05-01
 ---

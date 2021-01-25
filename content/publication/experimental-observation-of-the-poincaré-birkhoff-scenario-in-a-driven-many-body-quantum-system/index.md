@@ -6,13 +6,13 @@ publication_types:
 authors:
   - J. Tomkovič
   - W. Muessel
-  - H. Strobel
+  - strobel
   - S. Löck
   - P. Schlagheck
   - R. Ketzmerick
-  - M. K. Oberthaler
+  - oberthaler
 doi: 10.1103/PhysRevA.95.011602
-publication: Phys. Rev. A 95, 011602
+publication: Phys. Rev. A **95**, 011602
 abstract: Accessing the connection between classical chaos and quantum many-body
   systems has been a long-standing experimental challenge. Here, we investigate
   the onset of chaos in periodically driven two-component Bose-Einstein
@@ -29,5 +29,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:24:34.496Z
+date: 2017-01-12
 ---

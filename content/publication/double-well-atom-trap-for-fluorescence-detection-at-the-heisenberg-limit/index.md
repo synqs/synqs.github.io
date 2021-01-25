@@ -2,11 +2,13 @@
 title: Double-well atom trap for fluorescence detection at the Heisenberg limit
 publication_types:
   - "2"
+
 authors:
   - Ion Stroescu
-  - David B. Hume and Markus K. Oberthaler
+  - David B. Hume
+  - oberthaler
 doi: 10.1103/PhysRevA.91.013412
-publication: PHYSICAL REVIEW A, 91 013412
+publication: Phys. Rev. A **91**, 013412
 abstract: We experimentally demonstrate an atom number detector capable of
   simultaneous detection of two mesoscopic ensembles with single-atom
   resolution. Such a sensitivity is a prerequisite for quantum metrology at a
@@ -22,5 +24,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:29:25.400Z
+date: 2015-01-26
 ---

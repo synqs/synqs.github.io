@@ -6,13 +6,13 @@ title: Simultaneous Readout of Noncommuting Collective Spin Observables beyond t
 subtitle: ''
 summary: ''
 authors:
-- Philipp Kunkel
-- Maximilian Prüfer
-- Stefan Lannig
+- kunkel
+- pruefer
+- lannig
 - Rodrigo Rosa-Medina
 - Alexis Bonnin
 - gaerttner
-- Helmut Strobel
+- strobel
 - oberthaler
 tags: []
 categories: []

@@ -3,17 +3,17 @@ title: Observation of universal dynamics in a spinor Bose gas far from equilibri
 publication_types:
   - "2"
 authors:
-  - Maximilian Prüfer
+  - pruefer
   - Philipp Kunkel
-  - Helmut Strobel
-  - Stefan Lannig
+  - strobel
+  - lannig
   - Daniel Linnemann
-  - Christian-Marcel Schmied
-  - Jürgen Berges
-  - Thomas Gasenzer
-  - Markus K. Oberthaler
+  - schmied
+  - berges
+  - gasenzer
+  - oberthaler
 doi: 10.1038/s41586-018-0659-0
-publication: Nature 563, 217
+publication: Nature **563**, 217
 abstract: The dynamics of quantum systems far from equilibrium represents one of
   the most challenging problems in theoretical many-body physics. While the
   evolution is in general intractable in all its details, relevant observables
@@ -48,5 +48,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:17:23.934Z
+date: 2018-11-17
 ---

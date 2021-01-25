@@ -8,10 +8,12 @@ authors:
   - M. Höfer
   - A. Johnson
   - W. Muessel
-  - H. Strobel
+  - strobel
   - J. Tomkovič
-  - T. Gasenzer and M. K. Oberthaler
+  - gasenzer
+  - oberthaler
 doi: 10.1103/PhysRevLett.115.245301
+publication: Phys. Rev. Lett **115**, 245301
 abstract: We report on the experimental observation of scaling in the time
   evolution following a sudden quench into the vicinity of a quantum critical
   point. The experimental system, a two-component Bose gas with coherent
@@ -31,5 +33,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:26:22.206Z
+date: 2015-12-11
 ---

@@ -6,16 +6,16 @@ authors:
   - Markus Karl
   - Halil Cakir
   - Jad C. Halimeh
-  - Markus K. Oberthaler
+  - oberthaler
   - Michael Kastner
-  - Thomas Gasenzer
+  - gasenzer
 doi: 10.1103/PhysRevE.96.022110
-publication: Phys. Rev. E 96, 022110
+publication: Phys. Rev. E **96**, 022110
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:23:33.192Z
+date: 2017-08-07
 ---

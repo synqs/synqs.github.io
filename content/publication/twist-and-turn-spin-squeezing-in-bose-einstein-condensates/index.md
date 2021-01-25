@@ -4,12 +4,13 @@ publication_types:
   - "2"
 authors:
   - W. Muessel
-  - H. Strobel
+  - strobel
   - D. Linnemann
   - T. Zibold
-  - B. Juliá-Díaz and M. K. Oberthaler
+  - B. Juliá-Díaz
+  - oberthaler
 doi: 10.1103/PhysRevA.92.023603
-publication: Physical Review A, 92, 023603
+publication: Phys. Rev. A **92**, 023603
 abstract: We demonstrate experimentally an alternative method for the dynamic
   generation of atomic spin squeezing, building on the interplay between linear
   coupling and nonlinear phase evolution. Since the resulting quantum dynamics
@@ -27,5 +28,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:27:35.162Z
+date: 2015-08-03
 ---

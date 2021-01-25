@@ -1,15 +1,15 @@
 ---
 title: Quantum metrology with nonclassical states of atomic ensembles
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Luca Pezzè
   - Augusto Smerzi
-  - Markus K. Oberthaler
+  - oberthaler
   - Roman Schmied
-  - and Philipp Treutlein
+  - Philipp Treutlein
 doi: 10.1103/RevModPhys.90.035005
-publication: Rev. Mod. Phys. 90, 035005
+publication: Rev. Mod. Phys. **90**, 035005
 abstract: Quantum technologies exploit entanglement to revolutionize computing,
   measurements, and communications. This has stimulated the research in
   different areas of physics to engineer and manipulate fragile many-particle
@@ -31,5 +31,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:18:33.588Z
+date: 2018-09-05
 ---

@@ -9,14 +9,17 @@ authors:
   - P. Kunkel
   - M. Prüfer
   - A. Frölian
-  - H. Strobel and M.K. Oberthaler
+  - strobel
+  - oberthaler
 doi: 10.1088/2058-9565/aa802c
-publication: Quantum Sci. Technol. 2, 044009
+publication: Quantum Sci. Technol. **2**, 044009
+projects:
+- entanglement
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:20:07.269Z
+date: 2017-09-01
 ---

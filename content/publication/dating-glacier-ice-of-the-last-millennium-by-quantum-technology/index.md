@@ -13,9 +13,9 @@ authors:
   - Helene Hoffmann
   - Andrea Fischer
   - Werner Aeschbach
-  - and Markus K. Oberthaler
+  - oberthaler
 doi: 10.1073/pnas.1816468116
-publication: PNAS 116, 8781
+publication: PNAS **116**, 8781
 abstract: Radiometric dating with 39Ar covers a unique time span and offers key
   advances in interpreting environmental archives of the last millennium.
   Although this tracer has been acknowledged for decades, studies so far have
@@ -43,5 +43,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:09:09.766Z
+date: 2019-04-30
 ---

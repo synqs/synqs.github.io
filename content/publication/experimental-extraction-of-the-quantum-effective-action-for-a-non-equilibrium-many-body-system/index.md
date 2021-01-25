@@ -4,16 +4,16 @@ title: Experimental extraction of the quantum effective action for a
 publication_types:
   - "2"
 authors:
-  - Maximilian Prüfer
+  - pruefer
   - Torsten V. Zache
   - Philipp Kunkel
-  - Stefan Lannig
+  - lannig
   - Alexis Bonnin
-  - Helmut Strobel
-  - Jürgen Berges
-  - Markus K. Oberthaler
+  - strobel
+  - berges
+  - oberthaler
 doi: 10.1038/s41567-020-0933-6
-publication: Nature Physics  16, 1012
+publication: Nature Physics  **16**, 1012
 abstract: On the fundamental level, quantum fluctuations or entanglement lead to
   complex dynamical behaviour in many-body systems for which a description as
   emergent phenomena can be found within the framework of quantum field theory.
@@ -40,5 +40,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-01-25T07:04:04.026Z
+date: 2020-06-15
 ---
