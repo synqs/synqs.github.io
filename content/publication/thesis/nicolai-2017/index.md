@@ -28,7 +28,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['bec']
+projects: ['bec', 'water-dating']
 publication_types:
 - '7'
 abstract: 'High power lasers play an important role in atomic physics, where laser cooling
