@@ -15,6 +15,7 @@ doi: 10.1088/2058-9565/aa802c
 publication: Quantum Sci. Technol. **2**, 044009
 projects:
 - entanglement
+- bec
 draft: false
 featured: false
 image:

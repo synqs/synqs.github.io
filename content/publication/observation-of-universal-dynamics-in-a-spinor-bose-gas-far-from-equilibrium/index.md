@@ -45,7 +45,7 @@ abstract: The dynamics of quantum systems far from equilibrium represents one of
 draft: false
 featured: false
 projects:
-- BEC machine
+- bec
 - correlation
 image:
   filename: featured

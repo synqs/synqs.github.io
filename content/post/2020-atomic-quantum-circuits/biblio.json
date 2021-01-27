@@ -1,0 +1,580 @@
+[
+  {
+    "DOI": "10.1103/revmodphys.80.885",
+    "URL": "https://doi.org/10.1103%2Frevmodphys.80.885",
+    "author": [
+      {
+        "family": "Bloch",
+        "given": "Immanuel"
+      },
+      {
+        "family": "Dalibard",
+        "given": "Jean"
+      },
+      {
+        "family": "Zwerger",
+        "given": "Wilhelm"
+      }
+    ],
+    "container-title": "Reviews of Modern Physics",
+    "id": "Bloch_2008",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          7
+        ]
+      ]
+    },
+    "page": "885-964",
+    "publisher": "American Physical Society (APS)",
+    "title": "Many-body physics with ultracold gases",
+    "type": "article-journal",
+    "volume": "80"
+  },
+  {
+    "DOI": "10.1088/0034-4885/77/12/126401",
+    "URL": "https://doi.org/10.1088%2F0034-4885%2F77%2F12%2F126401",
+    "author": [
+      {
+        "family": "Goldman",
+        "given": "N"
+      },
+      {
+        "family": "Juzeliūnas",
+        "given": "G"
+      },
+      {
+        "family": "Öhberg",
+        "given": "P"
+      },
+      {
+        "family": "Spielman",
+        "given": "I B"
+      }
+    ],
+    "container-title": "Reports on Progress in Physics",
+    "id": "Goldman_2014",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11
+        ]
+      ]
+    },
+    "page": "126401",
+    "publisher": "IOP Publishing",
+    "title": "Light-induced gauge fields for ultracold atoms",
+    "type": "article-journal",
+    "volume": "77"
+  },
+  {
+    "DOI": "10.1016/s1049-250x(06)54001-7",
+    "URL": "https://doi.org/10.1016%2Fs1049-250x%2806%2954001-7",
+    "author": [
+      {
+        "family": "Regal",
+        "given": "C. A."
+      },
+      {
+        "family": "Jin",
+        "given": "D. S."
+      }
+    ],
+    "container-title": "Advances In Atomic Molecular, and Optical Physics",
+    "id": "Regal_2007",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "1-79",
+    "publisher": "Elsevier",
+    "title": "Experimental Realization of the BCS-BEC Crossover with a Fermi Gas of Atoms",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1063/1.3206091",
+    "URL": "https://doi.org/10.1063%2F1.3206091",
+    "author": [
+      {
+        "family": "Lagendijk",
+        "given": "Ad"
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Tiggelen",
+        "given": "Bart"
+      },
+      {
+        "family": "Wiersma",
+        "given": "Diederik S."
+      }
+    ],
+    "container-title": "Physics Today",
+    "id": "Lagendijk_2009",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          8
+        ]
+      ]
+    },
+    "page": "24-29",
+    "publisher": "AIP Publishing",
+    "title": "Fifty years of Anderson localization",
+    "type": "article-journal",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernien",
+        "given": "H"
+      },
+      {
+        "family": "Schwartz",
+        "given": "S"
+      },
+      {
+        "family": "Keesling",
+        "given": "A"
+      },
+      {
+        "family": "Levine",
+        "given": "H"
+      },
+      {
+        "family": "Omran",
+        "given": "A"
+      },
+      {
+        "family": "Pichler",
+        "given": "H"
+      },
+      {
+        "family": "Choi",
+        "given": "S"
+      },
+      {
+        "family": "Zibrov",
+        "given": "AS"
+      },
+      {
+        "family": "Endres",
+        "given": "M"
+      },
+      {
+        "family": "Greiner",
+        "given": "M"
+      },
+      {
+        "family": "Vuletić",
+        "given": "V"
+      },
+      {
+        "family": "Lukin",
+        "given": "MD"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Bernien2017",
+    "page": "579-584",
+    "title": "Probing many-body dynamics on a 51-atom quantum simulator.",
+    "type": "article-journal",
+    "volume": "551"
+  },
+  {
+    "DOI": "10.1088/0034-4885/79/1/014401",
+    "author": [
+      {
+        "family": "Zohar",
+        "given": "E"
+      },
+      {
+        "family": "Cirac",
+        "given": "JI"
+      },
+      {
+        "family": "Reznik",
+        "given": "B"
+      }
+    ],
+    "container-title": "Rep Prog Phys",
+    "id": "Zohar2016",
+    "page": "014401",
+    "title": "Quantum simulations of lattice gauge theories using ultracold atoms in optical lattices.",
+    "type": "article-journal",
+    "volume": "79"
+  },
+  {
+    "DOI": "10.1126/science.aaz5312",
+    "author": [
+      {
+        "family": "Mil",
+        "given": "A"
+      },
+      {
+        "family": "Zache",
+        "given": "TV"
+      },
+      {
+        "family": "Hegde",
+        "given": "A"
+      },
+      {
+        "family": "Xia",
+        "given": "A"
+      },
+      {
+        "family": "Bhatt",
+        "given": "RP"
+      },
+      {
+        "family": "Oberthaler",
+        "given": "MK"
+      },
+      {
+        "family": "Hauke",
+        "given": "P"
+      },
+      {
+        "family": "Berges",
+        "given": "J"
+      },
+      {
+        "family": "Jendrzejewski",
+        "given": "F"
+      }
+    ],
+    "container-title": "Science",
+    "id": "Mil2020",
+    "page": "1128-1130",
+    "title": "A scalable realization of local U(1) gauge invariance in cold atomic mixtures.",
+    "type": "article-journal",
+    "volume": "367"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1811.04968v3",
+    "author": [
+      {
+        "comma-suffix": false,
+        "family": "Ville Bergholm",
+        "given": "Maria Schuld",
+        "suffix": "Josh Izaac"
+      },
+      {
+        "family": "Killoran",
+        "given": "Nathan"
+      }
+    ],
+    "id": "computations",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "note": "Accessed on Thu, May 28, 2020",
+    "publisher": "https://arxiv.org/abs/1811.04968",
+    "title": "PennyLane: Automatic differentiation of hybrid quantum-classical computations",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1811.04968v3",
+    "author": [
+      {
+        "comma-suffix": false,
+        "family": "Ville Bergholm",
+        "given": "Maria Schuld",
+        "suffix": "Josh Izaac"
+      },
+      {
+        "family": "Killoran",
+        "given": "Nathan"
+      }
+    ],
+    "container-title": "2018",
+    "id": "killoran",
+    "note": "Accessed on Thu, May 28, 2020",
+    "publisher": "https://arxiv.org/abs/1811.04968",
+    "title": "PennyLane: Automatic differentiation of hybrid quantum-classical computations",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1811.04968v3",
+    "author": [
+      {
+        "family": "Bergholm",
+        "given": "Ville"
+      },
+      {
+        "family": "Izaac",
+        "given": "Josh"
+      },
+      {
+        "family": "Schuld",
+        "given": "Maria"
+      },
+      {
+        "family": "Gogolin",
+        "given": "Christian"
+      },
+      {
+        "family": "Alam",
+        "given": "M. Sohaib"
+      },
+      {
+        "family": "Ahmed",
+        "given": "Shahnawaz"
+      },
+      {
+        "family": "Arrazola",
+        "given": "Juan Miguel"
+      },
+      {
+        "family": "Blank",
+        "given": "Carsten"
+      },
+      {
+        "family": "Delgado",
+        "given": "Alain"
+      },
+      {
+        "family": "Jahangiri",
+        "given": "Soran"
+      },
+      {
+        "family": "McKiernan",
+        "given": "Keri"
+      },
+      {
+        "family": "Meyer",
+        "given": "Johannes Jakob"
+      },
+      {
+        "family": "Niu",
+        "given": "Zeyue"
+      },
+      {
+        "family": "Száva",
+        "given": "Antal"
+      },
+      {
+        "family": "Killoran",
+        "given": "Nathan"
+      }
+    ],
+    "id": "killoran2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "note": "Accessed on Thu, May 28, 2020",
+    "publisher": "https://arxiv.org/abs/1811.04968",
+    "title": "PennyLane: Automatic differentiation of hybrid quantum-classical computations",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1038/s41586-019-1177-4",
+    "URL": "https://doi.org/10.1038%2Fs41586-019-1177-4",
+    "author": [
+      {
+        "family": "Kokail",
+        "given": "C."
+      },
+      {
+        "family": "Maier",
+        "given": "C."
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Bijnen",
+        "given": "R."
+      },
+      {
+        "family": "Brydges",
+        "given": "T."
+      },
+      {
+        "family": "Joshi",
+        "given": "M. K."
+      },
+      {
+        "family": "Jurcevic",
+        "given": "P."
+      },
+      {
+        "family": "Muschik",
+        "given": "C. A."
+      },
+      {
+        "family": "Silvi",
+        "given": "P."
+      },
+      {
+        "family": "Blatt",
+        "given": "R."
+      },
+      {
+        "family": "Roos",
+        "given": "C. F."
+      },
+      {
+        "family": "Zoller",
+        "given": "P."
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Kokail_2019",
+    "issue": "7756",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          5
+        ]
+      ]
+    },
+    "page": "355-360",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Self-verifying variational quantum simulation of lattice models",
+    "type": "article-journal",
+    "volume": "569"
+  },
+  {
+    "DOI": "10.1038/nature18318",
+    "URL": "https://doi.org/10.1038%2Fnature18318",
+    "author": [
+      {
+        "family": "Martinez",
+        "given": "Esteban A."
+      },
+      {
+        "family": "Muschik",
+        "given": "Christine A."
+      },
+      {
+        "family": "Schindler",
+        "given": "Philipp"
+      },
+      {
+        "family": "Nigg",
+        "given": "Daniel"
+      },
+      {
+        "family": "Erhard",
+        "given": "Alexander"
+      },
+      {
+        "family": "Heyl",
+        "given": "Markus"
+      },
+      {
+        "family": "Hauke",
+        "given": "Philipp"
+      },
+      {
+        "family": "Dalmonte",
+        "given": "Marcello"
+      },
+      {
+        "family": "Monz",
+        "given": "Thomas"
+      },
+      {
+        "family": "Zoller",
+        "given": "Peter"
+      },
+      {
+        "family": "Blatt",
+        "given": "Rainer"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Martinez_2016",
+    "issue": "7608",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6
+        ]
+      ]
+    },
+    "page": "516-519",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Real-time dynamics of lattice gauge theories with a few-qubit quantum computer",
+    "type": "article-journal",
+    "volume": "534"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2005.10271v1",
+    "author": [
+      {
+        "family": "Mathis",
+        "given": "Simon V."
+      },
+      {
+        "family": "Mazzola",
+        "given": "Guglielmo"
+      },
+      {
+        "family": "Tavernelli",
+        "given": "Ivano"
+      }
+    ],
+    "id": "computers",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "note": "Accessed on Thu, May 28, 2020",
+    "publisher": "https://arxiv.org/abs/2005.10271",
+    "title": "Toward scalable simulations of Lattice Gauge Theories on quantum computers",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2005.10271v1",
+    "author": [
+      {
+        "family": "Mathis",
+        "given": "Simon V."
+      },
+      {
+        "family": "Mazzola",
+        "given": "Guglielmo"
+      },
+      {
+        "family": "Tavernelli",
+        "given": "Ivano"
+      }
+    ],
+    "id": "tavernelli2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "note": "Accessed on Thu, May 28, 2020",
+    "publisher": "https://arxiv.org/abs/2005.10271",
+    "title": "Toward scalable simulations of Lattice Gauge Theories on quantum computers",
+    "type": "article-journal"
+  }
+]

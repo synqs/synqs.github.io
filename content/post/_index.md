@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Blog
 
 # View.
 #   1 = List
@@ -12,3 +12,4 @@ header:
   caption: ""
   image: ""
 ---
+In this section we have accumulate a few notes. Typically they were not fitting for research publications, but still felt worth sharing. So feel free to comment if it is not as clear as the rather polished [research publications]({{< ref "/publication/_index.md" >}}).

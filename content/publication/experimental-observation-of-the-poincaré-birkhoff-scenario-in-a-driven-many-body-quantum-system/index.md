@@ -30,4 +30,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2017-01-12
+projects:
+- bec
 ---
