@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Max Prüfer"
+title: "Maximilian Prüfer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
