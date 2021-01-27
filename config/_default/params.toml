@@ -84,8 +84,8 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "hufnagel@kip.uni-heidelberg.de"
-phone = "+49-6221 / 54-9100"
+email = " info@synqs.org"
+phone = "+49 6221 54 5171"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
