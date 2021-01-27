@@ -74,6 +74,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Our research is geared towards leveraging the potentials of synthetic quantum systems with the aim of developing novel quantum technologies such as quantum simulation, quantum computation, and quantum metrology.
+We are a total of four groups with overlapping research interests. We regrouped within this collaboration to strengthen our joint theory and experimental effort. Our research is geared towards leveraging the potentials of synthetic quantum systems with the aim of developing novel quantum technologies such as quantum simulation, quantum computation, and quantum metrology.
 
 Go ahead and find out more about our research topics by clicking on the project cards below.

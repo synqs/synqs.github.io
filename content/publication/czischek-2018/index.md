@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Stefanie Czischek
 - gaerttner
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2018-07-01'

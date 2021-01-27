@@ -52,6 +52,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Our group regularly has openings for motivated __Postdocs__ as well as __PhD__, __Master__, and __Bachelor__ students. If you are interested, please [contact us]({{< ref "#contact" >}}).
+Our group regularly has openings for motivated __Postdocs__ as well as __PhD__, __Master__, and __Bachelor__ students. If you are interested, please [contact us]({{< ref "contact" >}}).
 
 Project topics include entanglement in quantum many-body systems, quantum simulation of lattice gauge theories and other many-body phenomena. For more information, see [research]({{< ref "#research" >}}).

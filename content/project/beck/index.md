@@ -1,20 +1,17 @@
 ---
-title: BEC machine
-summary: Ultracold spinor gases of Rb
+title: BECK machine
+summary: Ultracold spinor gases of K
 
 authors:
-- lannig
-- erdmann
-- pruefer
+- viermann
+- hans
 - strobel
 - oberthaler
 
 lastmod: "2021-01-27"
 tags:
 - machine
-- rubidium
-- entanglement
-- spinor
+- potassium
 - Bose-Einstein condensate
 - technology
 # tags:

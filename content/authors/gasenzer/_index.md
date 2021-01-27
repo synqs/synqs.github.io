@@ -11,6 +11,11 @@ organizations:
 
 superuser: false
 
+interests:
+- Ultracold quantum gases far from equilibrium
+- Universal dynamics and quantum turbulence
+- Artificial neural networks for quantum physics
+- Highly correlated quantum systems and entanglement
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Stefanie Czischek
 - Jan M. Pawlowski
-- Thomas Gasenzer
+- gasenzer
 - gaerttner
 tags: []
 categories: []

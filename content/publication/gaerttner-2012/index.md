@@ -7,7 +7,7 @@ summary: ''
 authors:
 - gaerttner
 - Kilian P. Heeg
-- Thomas Gasenzer
+- gasenzer
 - Jörg Evers
 tags: []
 categories: []
