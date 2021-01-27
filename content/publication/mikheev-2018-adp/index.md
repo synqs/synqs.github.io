@@ -6,9 +6,9 @@ title: Low-energy effective theory of nonthermal fixed points in a multicomponen
 subtitle: ''
 summary: ''
 authors:
-- Aleksandr N. Mikheev
-- Christian-Marcel Schmied
-- Thomas Gasenzer
+- mikheev
+- schmied
+- gasenzer
 tags: []
 categories: []
 date: '2019-01-01'
