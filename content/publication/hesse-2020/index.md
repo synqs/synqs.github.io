@@ -6,7 +6,7 @@ title: Direct control of high magnetic fields for cold atom experiments based on
 subtitle: ''
 summary: ''
 authors:
-- Alexander Hesse
+- hesse
 - Kerim Köster
 - Jakob Steiner
 - Julia Michl
@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["lattice-gauge"]
+projects: ["lattice-gauge", 'nali']
 publishDate: '2020-12-28T14:25:17.978686Z'
 publication_types:
 - '2'
