@@ -4,13 +4,13 @@ title: "Christian-Marcel Schmied"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- stockdale
+- schmied
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -36,5 +36,5 @@ user_groups:
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 221
+weight: 103
 ---
