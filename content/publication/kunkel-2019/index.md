@@ -6,7 +6,7 @@ title: Simultaneous Readout of Noncommuting Collective Spin Observables beyond t
 subtitle: ''
 summary: ''
 authors:
-- kunkel
+- Philipp Kunkel
 - pruefer
 - lannig
 - Rodrigo Rosa-Medina

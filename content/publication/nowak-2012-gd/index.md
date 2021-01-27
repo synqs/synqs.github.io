@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Boris Nowak
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2014-01-01'

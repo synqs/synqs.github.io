@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Boris Nowak
 - Denes Sexty
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2011-01-01'

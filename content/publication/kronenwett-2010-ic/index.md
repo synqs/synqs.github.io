@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Matthias Kronenwett
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2011-01-01'

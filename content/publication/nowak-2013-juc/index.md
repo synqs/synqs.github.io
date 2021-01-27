@@ -10,7 +10,7 @@ authors:
 - Markus Karl
 - Jan Schole
 - Dénes Sexty
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2013-02-01'

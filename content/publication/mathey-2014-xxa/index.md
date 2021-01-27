@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Steven Mathey
-- Thomas Gasenzer
+- gasenzer
 - Jan M. Pawlowski
 tags: []
 categories: []

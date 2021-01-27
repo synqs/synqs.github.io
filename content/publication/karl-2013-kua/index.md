@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Markus Karl
 - Boris Nowak
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2013-01-01'

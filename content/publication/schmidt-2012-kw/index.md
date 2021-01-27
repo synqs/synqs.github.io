@@ -9,7 +9,7 @@ authors:
 - Sebastian Erne
 - Boris Nowak
 - Denes Sexty
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2012-01-01'

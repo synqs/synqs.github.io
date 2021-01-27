@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Tim Langen
-- Thomas Gasenzer
+- gasenzer
 - Jörg Schmiedmayer
 tags: []
 categories: []

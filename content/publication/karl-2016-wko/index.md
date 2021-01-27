@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Markus Karl
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2017-01-01'

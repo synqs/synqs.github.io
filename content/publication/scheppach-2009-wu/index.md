@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Christian Scheppach
-- Jurgen Berges
-- Thomas Gasenzer
+- berges
+- gasenzer
 tags: []
 categories: []
 date: '2010-01-01'

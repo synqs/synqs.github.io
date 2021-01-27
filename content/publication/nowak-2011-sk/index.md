@@ -9,7 +9,7 @@ authors:
 - Boris Nowak
 - Jan Schole
 - Denes Sexty
-- Thomas Gasenzer
+- gasenzer
 tags: []
 categories: []
 date: '2012-01-01'
