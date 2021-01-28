@@ -24,7 +24,7 @@ organizations:
 social:
 - icon: link
   icon_pack: fas
-  link: https://synqs.de
+  link: https://sites.google.com/view/maximilian-pruefer
 - icon: envelope
   icon_pack: fas
   link: "mailto:maximilian.pruefer@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
