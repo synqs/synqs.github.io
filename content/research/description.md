@@ -6,6 +6,6 @@ title: "Research"
 weight: 10
 ---
 
-We are a total of four groups with overlapping research interests. We come together within this collaboration to strengthen our joint efforts in theory and experiment. Our research is geared towards leveraging the potentials of synthetic quantum systems with the aim of pushing the understanding of fundamental phenomena in quantum many-body physics as well as developing novel quantum technologies.
+SYNQS is a collaboration of four research groups with overlapping research interests. The collaboration exists to strengthen and better integrate theoretical and experimental research. Our work is generally related to leveraging the potential of synthetic quantum systems, with the aim of pushing the understanding of fundamental phenomena in quantum many-body physics,
 
 Go ahead and find out more about our research topics by clicking on the project cards below.
