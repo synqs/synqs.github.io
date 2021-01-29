@@ -44,5 +44,5 @@ slides: ""
 math: true
 ---
 
-The BECK experiment is a 2D Bose-Einstein condensate of potassium-39. We are interested in many-body dynamics far from equilibrium, using our quasi-2D system as a quantum simulator to solve the non-linear Schrödinger equation.
+The BECK experiment is a 2D Bose-Einstein condensate of potassium-39. We are interested in many-body dynamics far from equilibrium, using our quasi-2D system as a quantum simulator.
 

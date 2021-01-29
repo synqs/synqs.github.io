@@ -8,6 +8,10 @@ authors:
 - strobel
 - schmied
 - lannig
+- viermann
+- hans
+- liebster
+- sparn
 - strobel
 - gasenzer
 - oberthaler

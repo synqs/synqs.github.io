@@ -3,6 +3,10 @@ title: Physical Computation
 summary: Calculations with quantum and neuromorphic hardware.
 
 authors:
+- viermann
+- hans
+- liebster
+- sparn
 - jendrzejewski
 - oberthaler
 - gasenzer
