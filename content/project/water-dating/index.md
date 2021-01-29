@@ -1,6 +1,6 @@
 ---
 title: ATTA
-summary: Atom Trace Analysis for water dating
+summary: Atom Trap Trace Analysis for water dating
 authors:
 - ringena
 - robertz
@@ -8,7 +8,7 @@ authors:
 - oberthaler
 
 # Short title used in page links (if not set, defaults to title)
-title_short: Atta
+title_short: ATTA
 
 # Determines ordering of projects
 weight: 5
@@ -43,3 +43,4 @@ slides: ""
 
 math: true
 ---
+The Heidelberg Argon Trap Trace Analysis (ArTTA) apparatus applies quantum optical methods to establish an ultra-sensitive detection method for the radioisotope 39Ar, which, with a half-life of 269 years, serves as a unique tracer for dating of environmental samples. The ratio of 39Ar to Ar in fresh air is 10−16. To distinguish the isotope of interest from the huge background of abundant isotopes the isotopic shift in optical resonance frequency is utilized. The high selectivity is achieved by a multitude of scattering processes, which are realized in a magneto-optical trap (MOT), where single atoms are captured and detected.
