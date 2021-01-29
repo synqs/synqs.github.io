@@ -1,10 +1,12 @@
 ---
 title: BECK machine
-summary: Ultracold spinor gases of K
+summary: Ultracold 2D Bose Einstein Condensate of Potassium-39
 
 authors:
 - viermann
 - hans
+- liebster
+- kath
 - strobel
 - oberthaler
 
