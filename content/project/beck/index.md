@@ -1,11 +1,12 @@
 ---
 title: BECK machine
-summary: Ultracold 2D Bose Einstein Condensate of Potassium-39
+summary: 2D Bose-Einstein Condensate of Potassium-39
 
 authors:
 - viermann
 - hans
 - liebster
+- sparn
 - kath
 - strobel
 - oberthaler
@@ -40,3 +41,6 @@ slides: ""
 
 math: true
 ---
+
+The BECK experiment is a 2D Bose-Einstein condensate of potassium-39. We are interested in many-body dynamics far from equilibrium, using our quasi-2D system as a quantum simulator to solve the non-linear Schrödinger equation.
+
