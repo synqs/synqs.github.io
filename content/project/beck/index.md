@@ -8,6 +8,7 @@ authors:
 - liebster
 - sparn
 - kath
+- beikert
 - strobel
 - oberthaler
 
@@ -17,6 +18,7 @@ tags:
 - potassium
 - Bose-Einstein condensate
 - technology
+- 2D physics
 # tags:
 
 # Short title used in page links (if not set, defaults to title)
