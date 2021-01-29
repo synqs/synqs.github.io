@@ -1,6 +1,6 @@
 ---
 title: ATTA
-summary: Atom Trace Analysis for water dating
+summary: Atom Trap Trace Analysis for water dating
 authors:
 - ringena
 - robertz
@@ -8,7 +8,7 @@ authors:
 - oberthaler
 
 # Short title used in page links (if not set, defaults to title)
-title_short: Atta
+title_short: ATTA
 
 # Determines ordering of projects
 weight: 5
