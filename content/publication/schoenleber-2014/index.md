@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Coherent versus incoherent excitation dynamics in dissipative many-body Rydberg
-  systems
+title: Coherent versus incoherent excitation dynamics in dissipative many-body Rydberg systems
 subtitle: ''
 summary: ''
 authors:
 - David W. Schönleber
-- Martin G̈̊ttner
-- J\"g̈ Evers
+- gaerttner
+- Jörg Evers
 tags: []
 categories: []
 date: '2014-03-01'

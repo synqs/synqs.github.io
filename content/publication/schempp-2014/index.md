@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Full Counting Statistics of Laser Excited Rydberg Aggregates in a One-Dimensional
-  Geometry
+title: Full Counting Statistics of Laser Excited Rydberg Aggregates in a One-Dimensional Geometry
 subtitle: ''
 summary: ''
 authors:
@@ -12,11 +11,11 @@ authors:
 - C. S. Hofmann
 - D. Breyel
 - A. Komnik
-- D. W. Sch\n̈leber
-- M. G\"ẗtner
+- D. W. Schönleber
+- gaerttner
 - J. Evers
 - S. Whitlock
-- M. Weidem\"uër
+- M. Weidemüller
 tags: []
 categories: []
 date: '2014-01-01'
