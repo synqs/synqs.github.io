@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Oliver Stockdale"
+title: "Sebastian Syrkowski"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- stockdale
+- syrkowski
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,24 @@ organizations:
 
 # List each interest with a dash
 interests:
-- Cold Atoms
+- Many-body Quantum Dynamics
+- Entanglement
 - Quantum Simulation
-
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:oliver.stockdale@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD
 - Researchers
 - MBQD
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:sebastian.syrkowski@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
 
 # Weights for ordering
 # Principal Investigator: 1-9,
 # Researchers: 101-199 (PostDocs), 201-299 (PhD), 301-399 (Master), 401-499 (Bachelor)
 # Administration: >1000
-weight: 232
+weight: 374
 ---
