@@ -26,7 +26,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:nikolas.liebster@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
-
+- icon: phone
+  icon_pack: fas
+  link: "tel:+496221545177"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: "Phone Number: "

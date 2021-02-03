@@ -28,6 +28,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:helmut.strobel@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+- icon: phone
+  icon_pack: fas
+  link: "tel:+496221549276"
 
 # List each interest with a dash
 interests:
