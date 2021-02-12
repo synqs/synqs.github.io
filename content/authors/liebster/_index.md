@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -54,5 +54,3 @@ user_groups:
 weight: 234
 
 ---
-
-
