@@ -14,10 +14,14 @@ authors:
 - Durga Dasari
 - Jörg Wrachtrup
 - jendrzejewski
-tags: []
+tags:
+- magnetic field control
+- NV center
+- qubits
+- magnetometry
+- cold atoms
 categories: []
-date: '2020-01-01'
-lastmod: 2020-12-28T15:25:18+01:00
+date: '2021-02-19'
 featured: false
 draft: false
 
@@ -38,19 +42,8 @@ projects: ["lattice-gauge", 'nali']
 publishDate: '2020-12-28T14:25:17.978686Z'
 publication_types:
 - '2'
-abstract: In atomic physics experiments, magnetic fields allow to control the interactions
-  between atoms, eg. near Feshbach resonances, or by employing spin changing collisions.
-  The magnetic field control is typically performed indirectly, by stabilizing the
-  current of Helmholtz coils producing the large bias field. Here, we overcome the
-  limitations of such an indirect control through a direct feedback scheme, which
-  is based on nitrogen-vacancy centers acting as a sensor. This allows us to measure
-  and stabilize magnetic fields of 46.6 G down to 1.2 mG RMS noise, with the potential
-  of reaching much higher field strengths. Because the magnetic field is measured
-  directly, we reach minimum shot-to-shot fluctuations of 0.32(4) ppm on a 22 minute
-  time interval, ensuring high reproducibility of experiments. This approach extends
-  the direct magnetic field control to high magnetic fields, which could enable new
-  precise quantum simulations in this regime.
-publication: 'arxiv:2003.08101'
+abstract: In ultracold quantum gases, the interactions between the individual atoms can be controlled by applying magnetic bias fields. As magnetic field fluctuations limit the precision here, typically a feedback loop needs to be employed to regulate the current through a pair of Helmholtz coils. No commercially available magnetic field sensor allows to measure large fields directly with high enough precision, leading to many unsatisfactory solutions being used in experiments. Here, we demonstrate a direct magnetic field stabilization in a regime previously not accessible, using NV centers as the magnetic field sensor. This allows us to measure and stabilize fields of 4.66 mT down to 12 nT RMS noise over the course of 24 h, measured on a 1 Hz bandwidth. We achieve a control of better than 1 ppm after 20 min of integration time, ensuring high long-term stability for experiments. This approach extends direct magnetic field control to strong magnetic fields, which could enable new precise quantum simulations in this regime.
+publication: 'New J. Phys. **23**, 023037'
 url_preprint: http://arxiv.org/abs/2003.08101
 
 ---
