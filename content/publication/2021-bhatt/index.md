@@ -33,4 +33,5 @@ publication_types:
 abstract: We report on the stochastic dynamics of a few sodium atoms immersed in a cold potassium cloud. The studies are realized in a dual-species magneto-optical trap by continuously monitoring the emitted fluorescence of the two atomic species. We investigate the time evolution of sodium and potassium atoms in a unified statistical language and study the detection limits. We resolve the sodium atom dynamics accurately, which provides a fit free analysis. This work paves the path towards precise statistical studies of the dynamical properties of few atoms immersed in complex quantum environments.
 publication: 'arXiv:2101.01135'
 url_preprint: https://arxiv.org/abs/2101.01135
+url_code: https://mybinder.org/v2/dataverse/10.11588/data/HRCX1P/
 ---
