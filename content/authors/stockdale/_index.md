@@ -25,6 +25,11 @@ interests:
 - Cold Atoms
 - Quantum Simulation
 
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:oliver.stockdale@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:

@@ -16,3 +16,10 @@ If you would like to create a new user and do bigger changes it might be best to
 - Change the file/create the folder in `content/authors/YOUR-NAME`.
 - Follow here the examples of the other profiles that were previously created.
 - `Push` or `create a pull request` if you have no admin rights.
+
+## Quick fixes with weird bugs during building
+
+Sometimes you have weird bugs in your local build. You can just test if you can get rid of them by cleaning out the cacbe:
+
+- `hugo mod clean` cleans things out
+- `hugo mod get -u` reinstalls the extensions

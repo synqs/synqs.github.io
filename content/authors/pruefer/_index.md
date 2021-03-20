@@ -33,7 +33,7 @@ social:
   link: https://orcid.org/0000-0001-5768-3517
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/synqs
+  link: https://twitter.com/max_pruefer
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bb-8E2YAAAAJ&hl=en&oi=ao

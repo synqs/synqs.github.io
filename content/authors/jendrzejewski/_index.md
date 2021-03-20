@@ -46,6 +46,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:fnj@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
+  social:
+- icon: phone
+  icon_pack: fas
+  link: "tel:+496221545182"
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1488-7901

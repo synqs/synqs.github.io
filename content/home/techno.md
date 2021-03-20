@@ -74,4 +74,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Our experimental research groups base the work on a number of research technologies.
+Our experimental research groups base the work on [cold atoms](https://www.authorea.com/users/143341/articles/327099-lecture-22-quantum-degenerate-gases). In such experiments  a cloud of atoms is cooled to temperatures, which are close to absolute zero with the help of lasers and magnetic fields. The resulting quantum systems offer an enormous level of versatility and control, making them a powerful platform for the investigation of the wide variety of topics studied within *SYNQS*.
