@@ -59,4 +59,4 @@ What do we need to run our experiment? Find it out in the video (German).
 
 {{< figure src="plasma.jpg" title="Burning plasma in the source chamber driven by an open antenna." numbered="true">}}
 
-{{< figure src="shutter-control.jpg" title="Home-made shutter control system with an intuitive web interface." numbered="true">}}
+{{< figure src="shutter-controller.jpg" title="Home-made shutter control system with an intuitive web interface." numbered="true">}}
