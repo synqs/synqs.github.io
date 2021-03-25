@@ -50,8 +50,7 @@ The Heidelberg Argon Trap Trace Analysis (ArTTA) apparatus applies quantum optic
 Learn more about our [ArTTA machine]({{< relref "/project/artta" >}}).
 
 ## Open positions
-{{< video library="true" src="atta-corporate-video.mp4" controls="yes" >}}
-We're looking for Master as well as Bachelor students. Just write a mail to {{% mention "oberthaler" %}}, {{% mention "ringena" %}} or {{% mention "robertz" %}}, come around and have a chat. Your project could be 
+We're looking for Master as well as Bachelor students. Just write a mail to {{% mention "oberthaler" %}}, {{% mention "ringena" %}} or {{% mention "robertz" %}}, come around and have a chat. Your project could be
 - surpression of cross-sampling contamination measuring $^{85}$Kr
 - finalization of a laser system for Kr
 - modularization of a laser system for Ar
