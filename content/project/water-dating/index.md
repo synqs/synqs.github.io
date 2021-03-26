@@ -1,14 +1,15 @@
 ---
-title: ATTA
-summary: Atom Trap Trace Analysis for water dating
+title: "ATTA"
+summary: "Atom Trap Trace Analysis for water dating"
+
+# Short title used in page links (if not set, defaults to title)
+title_short: ATTA
+
 authors:
 - ringena
 - robertz
 - schmidt
 - oberthaler
-
-# Short title used in page links (if not set, defaults to title)
-title_short: ATTA
 
 # Determines ordering of projects
 weight: 5
@@ -19,6 +20,7 @@ external_link: ""
 tags:
 - topics
 - ultracold atoms
+- atta
 
 image:
   caption: ""
@@ -43,4 +45,14 @@ slides: ""
 
 math: true
 ---
-The Heidelberg Argon Trap Trace Analysis (ArTTA) apparatus applies quantum optical methods to establish an ultra-sensitive detection method for the radioisotope 39Ar, which, with a half-life of 269 years, serves as a unique tracer for dating of environmental samples. The ratio of 39Ar to Ar in fresh air is 10−16. To distinguish the isotope of interest from the huge background of abundant isotopes the isotopic shift in optical resonance frequency is utilized. The high selectivity is achieved by a multitude of scattering processes, which are realized in a magneto-optical trap (MOT), where single atoms are captured and detected.
+The Heidelberg Argon Trap Trace Analysis (ArTTA) apparatus applies quantum optical methods to establish an ultra-sensitive detection method for the radioisotope $^{39}$Ar, which, with a half-life of 269 years, serves as a unique tracer for dating of environmental samples. The ratio of $^{39}$Ar to Ar in fresh air is 10$^{−15}$. To distinguish the isotope of interest from the huge background of abundant isotopes the isotopic shift in optical resonance frequency is utilized. The high selectivity is achieved by a multitude of scattering processes, which are realized in a magneto-optical trap (MOT), where single atoms are captured and detected.
+
+Learn more about our [ArTTA machine]({{< relref "/project/artta" >}}).
+
+## Open positions
+We're looking for Master as well as Bachelor students. Just write a mail to {{% mention "oberthaler" %}}, {{% mention "ringena" %}} or {{% mention "robertz" %}}, come around and have a chat. Your project could be
+- surpression of cross-sampling contamination measuring $^{85}$Kr
+- finalization of a laser system for Kr
+- modularization of a laser system for Ar
+- measuring environmental samples and interpretation of the result
+- ...
