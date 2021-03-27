@@ -55,7 +55,7 @@ math: true
 Learn more about [water dating with ATTA in Heidelberg]({{< relref "/project/water-dating" >}}).
 
 What do we need to run our experiment? Find it out in the video (German).
-{{< video library="true" src="atta-corporate-video.mp4" controls="yes" >}}
+{{< vimeo 529686433 >}}
 
 {{< figure src="plasma.jpg" title="Burning plasma in the source chamber driven by an open antenna." numbered="true">}}
 
