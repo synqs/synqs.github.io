@@ -38,7 +38,7 @@ projects: []
 
 Nowadays, it has been possible to achieve control of quantum systems to an enormous degree on different hardware platforms. In this seminar we will discuss a variety of experiments based on assemblies of either photons, neutral atoms or ions, that highlight their capabilities to study quantum effects ranging from high precision measurements to complex many-body phenomena.
 
-_ We schedule it currently as a weekly lecture. However, we would also be happy to set it up as a two or three day workshop in  September if student interest  is big enough. We will discuss this on the first lecture. _ 
+_We schedule it currently as a weekly lecture. However, we would also be happy to set it up as a two or three day workshop in  September if student interest  is big enough. We will discuss this on the first lecture._ 
 
 The proposed topics include
 
