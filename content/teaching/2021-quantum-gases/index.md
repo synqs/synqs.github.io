@@ -26,6 +26,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+
+links:
+ - icon: link
+   icon_pack: fas
+   name: More information
+   url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=341618&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 ---
 
-In the upcoming summer semester, I am teaching on ultracold quantum gases.
+In the upcoming summer semester, I am teaching on ultracold quantum gases. The lecture will take place on Fridays from 11am until 4pm.
