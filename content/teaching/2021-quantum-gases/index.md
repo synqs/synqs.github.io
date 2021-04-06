@@ -35,4 +35,4 @@ links:
    url: https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=341618&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 ---
 
-In the upcoming summer semester, I am teaching on ultracold quantum gases. The lecture will take place on Fridays from 11am until 4pm.
+In the upcoming summer semester, I am teaching on ultracold quantum gases. The lecture will take place on Fridays from 11am until 1pm, followed by a tutorial from 3 pm until 4 pm.
