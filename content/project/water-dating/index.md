@@ -55,7 +55,7 @@ Learn more about our [ArTTA machine]({{< relref "/project/artta" >}}).
 
 ## Open positions
 {{< vimeo 529686433 >}}
-We're looking for Master as well as Bachelor students. Just write a mail to {{% mention "oberthaler" %}}, {{% mention "ringena" %}}, {{% mention "robertz" %}} or {{% mention "wachs" %}}, come around and have a chat. Your project could be 
+We're looking for Master as well as Bachelor students. Just write a mail to {{% mention "oberthaler" %}}, {{% mention "ringena" %}}, {{% mention "robertz" %}}, {{% mention "arck"}} or {{% mention "wachs" %}}, come around and have a chat. Your project could be 
 - surpression of cross-sampling contamination measuring $^{85}$Kr
 - finalization of a laser system for Kr
 - modularization of a laser system for Ar
