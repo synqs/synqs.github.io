@@ -5,7 +5,7 @@ title: Observation and Characterization of the Bichromatic Force on Metastable A
 subtitle: ''
 summary: ''
 authors:
-- Zhongyi Feng
+- feng
 tags:
 - magnetooptical trap
 - argon

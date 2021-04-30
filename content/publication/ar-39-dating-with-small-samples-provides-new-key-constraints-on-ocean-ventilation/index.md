@@ -7,7 +7,7 @@ authors:
   - Sven Ebser
   - Arne Kersting
   - Tim Stöven
-  - Zhongyi Feng
+  - feng
   - ringena
   - schmidt
   - Toste Tanhua

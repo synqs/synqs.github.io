@@ -3,9 +3,9 @@ title: Bichromatic force on metastable argon for atom-trap trace analysis
 publication_types:
   - "2"
 authors:
-  - Z. Feng
+  - feng
   - S. Ebser
-  - L. Ringena
+  - ringena
   - F. Ritterbusch
   - oberthaler
 doi: 10.1103/PhysRevA.96.013424

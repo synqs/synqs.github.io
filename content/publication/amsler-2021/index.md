@@ -15,7 +15,7 @@ authors:
 - Patrick Cheinet
 - Daniel Comparat
 - Giovanni Consolati
-- Andrea Demetrio
+- demetrio
 - Lea Di Noto
 - Michael Doser
 - Mattia Fanì

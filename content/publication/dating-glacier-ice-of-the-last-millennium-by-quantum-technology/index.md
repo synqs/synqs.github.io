@@ -3,7 +3,7 @@ title: Dating glacier ice of the last millennium by quantum technology
 publication_types:
   - "2"
 authors:
-  - Zhongyi Feng
+  - feng
   - Pascal Bohleber
   - Sven Ebser
   - ringena

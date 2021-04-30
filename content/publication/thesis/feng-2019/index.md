@@ -5,7 +5,7 @@ title: 'Quantum technological dating of glacier ice from the last millennium and
 subtitle: ''
 summary: ''
 authors:
-- Zhongyi Feng
+- feng
 tags:
 categories: []
 date: '2019-02-05'
