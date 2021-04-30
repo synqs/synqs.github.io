@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'A new Na-K apparatus to study quantum thermodynamics'
-event: Q-Turn 2020
-event_url: https://www.q-turn.org/
+event: 'Quantum Thermodynamics for Young Scientists'
+event_url: ''
 subtitle: ''
 summary: 'We present our progress in the construction of a new experimental apparatus for the study of quantum thermodynamics.'
 authors:
@@ -13,7 +13,7 @@ authors:
 - jendrzejewski
 tags: ['Poster']
 categories: 'Poster'
-date: '2020-11-23'
+date: '2020-02-02'
 featured: false
 draft: false
 
