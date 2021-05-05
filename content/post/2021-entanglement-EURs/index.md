@@ -5,6 +5,13 @@ summary: A brief summary of our research into the detection of entanglement in q
 draft: false
 featured: false
 links: []
+
+authors:
+- stockdale
+
+projects:
+- physical-computation
+- entanglement
 ---
 Entanglement is an inherently quantum phenomenon with no classical counterpart. It has baffled Einstein, Heisenberg, and nearly every physicist since.
 
