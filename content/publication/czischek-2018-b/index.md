@@ -6,7 +6,7 @@ title: Quenches near criticality of the quantum Ising chain—power and limitati
 subtitle: ''
 summary: ''
 authors:
-- Stefanie Czischek
+- czischek
 - gaerttner
 - oberthaler
 - Michael Kastner

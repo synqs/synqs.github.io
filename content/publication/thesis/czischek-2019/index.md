@@ -5,7 +5,7 @@ title: 'Simulating Strongly Interacting Quantum Spin Systems'
 subtitle: 'From Critical Dynamics Towards Entanglement Correlations in a Classical Artificial Neural Network'
 summary: ''
 authors:
-- Stephanie Czischek
+- czischek
 tags:
 - neural networks
 - quantum many-body

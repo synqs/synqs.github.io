@@ -6,7 +6,7 @@ title: Quenches near Ising quantum criticality as a challenge for artificial neu
 subtitle: ''
 summary: ''
 authors:
-- Stefanie Czischek
+- czischek
 - gaerttner
 - gasenzer
 tags: []

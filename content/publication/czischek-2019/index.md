@@ -5,7 +5,7 @@ title: Sampling scheme for neuromorphic simulation of entangled quantum systems
 subtitle: ''
 summary: ''
 authors:
-- Stefanie Czischek
+- czischek
 - Jan M. Pawlowski
 - gasenzer
 - gaerttner

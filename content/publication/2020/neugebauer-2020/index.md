@@ -8,7 +8,7 @@ authors:
 - Marcel Neugebauer
 - Laurin Fischer
 - Alexander Jäger
-- Stefanie Czischek
+- czischek
 - Selim Jochim
 - Matthias Weidemüller
 - gaerttner
