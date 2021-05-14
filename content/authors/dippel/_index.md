@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Hiwi
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
@@ -34,6 +34,7 @@ user_groups:
 - Researchers
 - NaLi
 - CoQuMa
+- NaKa
 
 # Weights for ordering
 # Principal Investigator: 1-9,
