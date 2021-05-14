@@ -1,5 +1,5 @@
 ---
-title: NaKa project
+title: NaKa machine
 summary: Attempt to run a cold quantum gases experiment in a rack
 
 authors:
