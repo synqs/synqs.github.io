@@ -22,10 +22,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:ingrid.dippel@kip.uni-heidelberg.de"
-- icon: fa-github
+- icon: github
   icon_pack: fab
   link: https://github.com/imdippel
-- icon: fa-flask
+- icon: flask
   icon_pack: fas
   link: https://www.synqs.org/project/naka/
   
