@@ -17,6 +17,18 @@ organizations:
 - name: Heidelberg University
   url: "https://www.uni-heidelberg.de"
 
+# Social/Academic Networking
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:ingrid.dippel@kip.uni-heidelberg.de"
+- icon: fa-github
+  icon_pack: fab
+  link: https://github.com/imdippel
+- icon: fa-flask
+  icon_pack: fas
+  link: https://www.synqs.org/project/naka/
+  
 # Short bio (displayed in user profile at end of posts)
 # bio: ""
 
