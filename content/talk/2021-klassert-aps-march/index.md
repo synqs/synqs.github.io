@@ -10,7 +10,7 @@ authors:
 - klassert
 - gaerttner
 tags: ['Talk', 'neuromorphic hardware', 'machine learning']
-categories: ['Talk', 'neuromorphic hardware', 'machine learning']
+categories: ['Talk']
 date: '2021-03-15'
 featured: false
 draft: false
@@ -31,8 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-# - quantum-ann
- - entanglement
+ - physical-computation
 
 # Enable math on this page?
 math: true

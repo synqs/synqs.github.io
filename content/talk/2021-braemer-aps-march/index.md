@@ -10,7 +10,7 @@ authors:
 - braemer
 - gaerttner
 tags: ['Talk', 'disorder']
-categories: ['Talk', 'disorder']
+categories: ['Talk']
 date: '2021-03-15'
 featured: false
 draft: false

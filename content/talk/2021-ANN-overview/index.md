@@ -13,7 +13,7 @@ authors:
 - gaerttner
 
 tags: ['ANN']
-categories: ['ANN']
+categories: ['Talk']
 date: '2021-05-01'
 featured: false
 draft: false
@@ -34,8 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-# - quantum-ann
- - entanglement
+ - physical-computation
 
 # Enable math on this page?
 math: true
