@@ -1,37 +1,39 @@
-# Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
+# Website of Synqs based on Wowchemy
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+- [**Get Started**](https://wowchemy.com/templates/)
+- [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import publications from BibTeX
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 5 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+# Howto update my profile
+- Your profile lives in 'content/authors/YOUR-NAME'
+- If you just would like to change some details you might open the 'content/authors/YOUR-NAME/_index.md' file it on the github website, edit it and that should be about it.
 
-_[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs._
+## Bigger work on your profile
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+If you would like to create a new user and do bigger changes it might be best to install github desktop first and clone this repository.
 
-## Crowd-funded open-source software
+- Download github desktop [here](https://desktop.github.com/).
+- Clone this repository,  whose URL is https://github.com/synqs/synqs.github.io
+- Change the file/create the folder in `content/authors/YOUR-NAME`.
+- Follow here the examples of the other profiles that were previously created.
+- `Push` or `create a pull request` if you have no admin rights.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Add a Talk/Poster
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+If you would like to add your talk/poster to the website it might be best to install github desktop first and clone this repository.
 
-## Ecosystem
+- Download github desktop [here](https://desktop.github.com/).
+- Clone this repository,  whose URL is https://github.com/synqs/synqs.github.io
+- Change the create the folder in `content/talk/YEAR-NAME-EVENT`.
+- The folder should contain the following:
+    - a pdf of your talk/poster
+    - an png/jpg image representing your talk/poster
+    - an index file giving some key details
+- Follow here the examples of the other posters/talks that were previously created.
+- `Push` or `create a pull request` if you have no admin rights.
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import publications from BibTeX
+## Quick fixes with weird bugs during building
 
-[![Screenshot](./preview.png)](https://wowchemy.com/templates/)
+Sometimes you have weird bugs in your local build. You can just test if you can get rid of them by cleaning out the cacbe:
 
-## Demo Credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+- `hugo mod clean` cleans things out
+- `hugo mod get -u` reinstalls the extensions
