@@ -12,4 +12,6 @@ header:
   caption: ""
   image: ""
 ---
-Emerging quantum technologies will potentially transform important technological areas such as computing, communication, and sensing. What fascinates us as physicists is that many phenomena that arise when many particles interact at the quantum level are still poorly understood. Nevertheless these phenomena, such as entanglement, are what actually makes quantum devices potentially so powerful, and their better understanding is thus key. Towards this goal we develop analytical and numerical tools to model and simulate quantum many-body systems and search for efficient ways to prepare and probe interesting quantum states of matter.
+Our research is geared towards leveraging the potentials of synthetic quantum systems with the aim of developing novel quantum technologies such as quantum simulation, quantum computation, and quantum metrology.
+
+Go ahead and find out more about our research topics by clicking on the project cards below.

@@ -1,0 +1,117 @@
+[
+  {
+    "DOI": "10.1126/science.1230816",
+    "author": [
+      {
+        "family": "CMS/CERN"
+      }
+    ],
+    "container-title": "Science",
+    "id": "2012",
+    "issue": "6114",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1569-1575",
+    "title": "A New Boson with a Mass of 125 GeV Observed with the CMS Experiment at the Large Hadron Collider",
+    "type": "article-journal",
+    "volume": "338"
+  },
+  {
+    "DOI": "10.1088/1742-6596/173/1/012019",
+    "URL": "http://dx.doi.org/10.1088/1742-6596/173/1/012019",
+    "author": [
+      {
+        "family": "Holstein",
+        "given": "Barry R"
+      }
+    ],
+    "container-title": "J. Phys.: Conf. Ser.",
+    "id": "Holstein_2009",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          6
+        ]
+      ]
+    },
+    "page": "012019",
+    "publisher": "IOP Publishing",
+    "title": "The mysterious disappearance of Ettore Majorana",
+    "type": "article-journal",
+    "volume": "173"
+  },
+  {
+    "DOI": "10.1103/revmodphys.77.783",
+    "URL": "https://doi.org/10.1103%2Frevmodphys.77.783",
+    "author": [
+      {
+        "family": "Bechhoefer",
+        "given": "John"
+      }
+    ],
+    "container-title": "Reviews of Modern Physics",
+    "id": "Bechhoefer_2005",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          8
+        ]
+      ]
+    },
+    "page": "783-836",
+    "publisher": "American Physical Society (APS)",
+    "title": "Feedback for physicists: A tutorial essay on control",
+    "type": "article-journal",
+    "volume": "77"
+  },
+  {
+    "DOI": "10.1109/mcs.2003.1213600",
+    "URL": "https://doi.org/10.1109%2Fmcs.2003.1213600",
+    "author": [
+      {
+        "family": "Stein",
+        "given": "G."
+      }
+    ],
+    "container-title": "IEEE Control Systems Magazine",
+    "id": "Stein_2003",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          8
+        ]
+      ]
+    },
+    "page": "12-25",
+    "publisher": "Institute of Electrical; Electronics Engineers (IEEE)",
+    "title": "Respect the unstable",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "URL": "https://www.redpitaya.com/index2",
+    "id": "pitaya",
+    "note": "Accessed on Sat, May 05, 2018",
+    "publisher": "https://www.redpitaya.com/index2",
+    "title": "Red Pitaya",
+    "type": "no-type"
+  },
+  {
+    "URL": "http://pyrpl.readthedocs.io/en/latest/",
+    "id": "pyrpl",
+    "note": "Accessed on Sat, May 05, 2018",
+    "publisher": "http://pyrpl.readthedocs.io/en/latest/",
+    "title": "What is PyRPL?",
+    "type": "no-type"
+  }
+]

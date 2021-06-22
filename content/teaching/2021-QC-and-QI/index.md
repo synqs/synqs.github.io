@@ -12,7 +12,7 @@ featured: false
 draft: false
 tags:
  - quantum information
- - lecture
+ - thermalization
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -59,11 +59,11 @@ Topics include:
 - Quantum computing hardware overview
 - Quantum information theory: basic concepts
 
-Dates and time: Mondays 14:15-16:00h, online on zoom (link will be provided in the exercise group system), first session on 12.04.2021, Tutorials: Wednesday 16:15-18:00h and Thursday 14:15-16:00h (Note that the time of the Thursday tutorial was changed compared to the time announced in the LSF.)
+Dates and time: Mondays 14:16-16:00h, online on zoom (link will be provided in the exercise group system), first session on 12.04.2021, Tutorials: Wednesday and Thursday 16:15-18:00h
 
 If you want to participate in this lecture, please sign up for the <a href="https://uebungen.physik.uni-heidelberg.de/v/1328">tutorials</a>.
 
-Course requirements: Basic knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
+Course requirements: Basics knowledge of quantum mechanics (Theoretical Physics IV) and basic programming skills are required.
 
 Mode of examination: The grade will be based on a written exam.
 

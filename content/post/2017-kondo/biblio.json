@@ -1,0 +1,1498 @@
+[
+  {
+    "DOI": "10.1126/science.1230816",
+    "author": [
+      {
+        "family": "CMS/CERN"
+      }
+    ],
+    "container-title": "Science",
+    "id": "2012",
+    "issue": "6114",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1569-1575",
+    "title": "A New Boson with a Mass of 125 GeV Observed with the CMS Experiment at the Large Hadron Collider",
+    "type": "article-journal",
+    "volume": "338"
+  },
+  {
+    "DOI": "10.1088/1742-6596/173/1/012019",
+    "URL": "http://dx.doi.org/10.1088/1742-6596/173/1/012019",
+    "author": [
+      {
+        "family": "Holstein",
+        "given": "Barry R"
+      }
+    ],
+    "container-title": "J. Phys.: Conf. Ser.",
+    "id": "Holstein_2009",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          6
+        ]
+      ]
+    },
+    "page": "012019",
+    "publisher": "IOP Publishing",
+    "title": "The mysterious disappearance of Ettore Majorana",
+    "type": "article-journal",
+    "volume": "173"
+  },
+  {
+    "DOI": "10.1016/s0081-1947(08)60616-5",
+    "URL": "https://doi.org/10.1016%2Fs0081-1947%2808%2960616-5",
+    "author": [
+      {
+        "family": "Kondo",
+        "given": "J."
+      }
+    ],
+    "container-title": "Solid State Physics",
+    "id": "Kondo_1970",
+    "issued": {
+      "date-parts": [
+        [
+          1970
+        ]
+      ]
+    },
+    "page": "183-281",
+    "publisher": "Elsevier",
+    "title": "Theory of Dilute Magnetic Alloys",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1143/ptp.32.37",
+    "URL": "https://doi.org/10.1143%2Fptp.32.37",
+    "author": [
+      {
+        "family": "Kondo",
+        "given": "J."
+      }
+    ],
+    "container-title": "Progress of Theoretical Physics",
+    "id": "Kondo_1964",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1964,
+          7
+        ]
+      ]
+    },
+    "page": "37-49",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Resistance Minimum in Dilute Magnetic Alloys",
+    "type": "article-journal",
+    "volume": "32"
+  },
+  {
+    "DOI": "10.1017/cbo9780511470752",
+    "URL": "https://doi.org/10.1017%2Fcbo9780511470752",
+    "author": [
+      {
+        "family": "Hewson",
+        "given": "Alexander Cyril"
+      }
+    ],
+    "id": "Hewson_1993",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "publisher": "Cambridge University Press",
+    "title": "The Kondo Problem to Heavy Fermions",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nozieres",
+        "given": "P"
+      }
+    ],
+    "id": "nozieres1975",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "title": "The Kondo problem : Fancy mathematical techniques versus simple physical ideas",
+    "type": "no-type"
+  },
+  {
+    "URL": "http://iopscience.iop.org/article/10.1088/2058-7058/8/12/20/meta",
+    "id": "iopscience",
+    "note": "Accessed on Thu, October 05, 2017",
+    "publisher": "http://iopscience.iop.org/article/10.1088/2058-7058/8/12/20/meta",
+    "title": "Condensed matter: strongly correlated electrons - IOPscience",
+    "type": "no-type"
+  },
+  {
+    "DOI": "10.1038/34373",
+    "URL": "https://doi.org/10.1038%2F34373",
+    "author": [
+      {
+        "family": "Kastner",
+        "given": "M. A."
+      },
+      {
+        "family": "Goldhaber-Gordon",
+        "given": "D."
+      },
+      {
+        "family": "Shtrikman",
+        "given": "Hadas"
+      },
+      {
+        "family": "Mahalu",
+        "given": "D."
+      },
+      {
+        "family": "Abusch-Magder",
+        "given": "David"
+      },
+      {
+        "family": "Meirav",
+        "given": "U."
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Kastner_1998",
+    "issue": "6663",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          1
+        ]
+      ]
+    },
+    "page": "156-159",
+    "publisher": "Springer Nature",
+    "title": "Kondo effect in a single-electron transistor",
+    "type": "article-journal",
+    "volume": "391"
+  },
+  {
+    "DOI": "10.1126/science.281.5376.540",
+    "URL": "https://doi.org/10.1126%2Fscience.281.5376.540",
+    "author": [
+      {
+        "family": "Cronenwett",
+        "given": "S. M."
+      }
+    ],
+    "container-title": "Science",
+    "id": "Cronenwett_1998",
+    "issue": "5376",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          7
+        ]
+      ]
+    },
+    "page": "540-544",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "title": "A Tunable Kondo Effect in Quantum Dots",
+    "type": "article-journal",
+    "volume": "281"
+  },
+  {
+    "DOI": "10.1016/s0921-4526(98)00533-x",
+    "URL": "https://doi.org/10.1016%2Fs0921-4526%2898%2900533-x",
+    "author": [
+      {
+        "family": "Schmid",
+        "given": "Jörg"
+      },
+      {
+        "family": "Weis",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Eberl",
+        "given": "Karl"
+      },
+      {
+        "dropping-particle": "v.",
+        "family": "Klitzing",
+        "given": "Klaus"
+      }
+    ],
+    "container-title": "Physica B: Condensed Matter",
+    "id": "Schmid_1998",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "page": "182-185",
+    "publisher": "Elsevier BV",
+    "title": "A quantum dot in the limit of strong coupling to reservoirs",
+    "type": "article-journal",
+    "volume": "256-258"
+  },
+  {
+    "DOI": "10.1038/35042545",
+    "URL": "https://doi.org/10.1038%2F35042545",
+    "author": [
+      {
+        "family": "Nygård",
+        "given": "Jesper"
+      },
+      {
+        "family": "Cobden",
+        "given": "David Henry"
+      },
+      {
+        "family": "Lindelof",
+        "given": "Poul Erik"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Nyg_rd_2000",
+    "issue": "6810",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          11
+        ]
+      ]
+    },
+    "page": "342-346",
+    "publisher": "Springer Nature",
+    "title": "Kondo physics in carbon nanotubes",
+    "type": "article-journal",
+    "volume": "408"
+  },
+  {
+    "DOI": "10.1038/nature00790",
+    "URL": "https://doi.org/10.1038%2Fnature00790",
+    "author": [
+      {
+        "family": "Liang",
+        "given": "Wenjie"
+      },
+      {
+        "family": "Shores",
+        "given": "Matthew P."
+      },
+      {
+        "family": "Bockrath",
+        "given": "Marc"
+      },
+      {
+        "family": "Long",
+        "given": "Jeffrey R."
+      },
+      {
+        "family": "Park",
+        "given": "Hongkun"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Liang_2002",
+    "issue": "6890",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          6
+        ]
+      ]
+    },
+    "page": "725-729",
+    "publisher": "Springer Nature",
+    "title": "Kondo resonance in a single-molecule transistor",
+    "type": "article-journal",
+    "volume": "417"
+  },
+  {
+    "DOI": "10.1038/nature00791",
+    "URL": "https://doi.org/10.1038%2Fnature00791",
+    "author": [
+      {
+        "family": "Park",
+        "given": "Jiwoong"
+      },
+      {
+        "family": "Pasupathy",
+        "given": "Abhay N."
+      },
+      {
+        "family": "Goldsmith",
+        "given": "Jonas I."
+      },
+      {
+        "family": "Chang",
+        "given": "Connie"
+      },
+      {
+        "family": "Yaish",
+        "given": "Yuval"
+      },
+      {
+        "family": "Petta",
+        "given": "Jason R."
+      },
+      {
+        "family": "Rinkoski",
+        "given": "Marie"
+      },
+      {
+        "family": "Sethna",
+        "given": "James P."
+      },
+      {
+        "family": "Abruña",
+        "given": "Héctor D."
+      },
+      {
+        "family": "McEuen",
+        "given": "Paul L."
+      },
+      {
+        "family": "Ralph",
+        "given": "Daniel C."
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Park_2002",
+    "issue": "6890",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          6
+        ]
+      ]
+    },
+    "page": "722-725",
+    "publisher": "Springer Nature",
+    "title": "Coulomb blockade and the Kondo effect in single-atom transistors",
+    "type": "article-journal",
+    "volume": "417"
+  },
+  {
+    "DOI": "10.1103/revmodphys.83.863",
+    "URL": "https://doi.org/10.1103%2Frevmodphys.83.863",
+    "author": [
+      {
+        "family": "Polkovnikov",
+        "given": "Anatoli"
+      },
+      {
+        "family": "Sengupta",
+        "given": "Krishnendu"
+      },
+      {
+        "family": "Silva",
+        "given": "Alessandro"
+      },
+      {
+        "family": "Vengalattore",
+        "given": "Mukund"
+      }
+    ],
+    "container-title": "Reviews of Modern Physics",
+    "id": "Polkovnikov_2011",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          8
+        ]
+      ]
+    },
+    "page": "863-883",
+    "publisher": "American Physical Society (APS)",
+    "title": "Colloquium: Nonequilibrium dynamics of closed interacting quantum systems",
+    "type": "article-journal",
+    "volume": "83"
+  },
+  {
+    "DOI": "10.1103/physrevb.94.045108",
+    "URL": "https://doi.org/10.1103%2Fphysrevb.94.045108",
+    "author": [
+      {
+        "family": "Bock",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Liluashvili",
+        "given": "Alexander"
+      },
+      {
+        "family": "Gasenzer",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "Physical Review B",
+    "id": "Bock_2016",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          7
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Buildup of the Kondo effect from real-time effective action for the Anderson impurity model",
+    "type": "article-journal",
+    "volume": "94"
+  },
+  {
+    "DOI": "10.1103/physrevlett.110.246603",
+    "URL": "https://doi.org/10.1103%2Fphysrevlett.110.246603",
+    "author": [
+      {
+        "family": "Park",
+        "given": "Jinhong"
+      },
+      {
+        "family": "Lee",
+        "given": "S.-S. B."
+      },
+      {
+        "family": "Oreg",
+        "given": "Yuval"
+      },
+      {
+        "family": "Sim",
+        "given": "H.-S."
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Park_2013",
+    "issue": "24",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          6
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "How to Directly Measure a Kondo Cloud’s Length",
+    "type": "article-journal",
+    "volume": "110"
+  },
+  {
+    "DOI": "10.1103/revmodphys.80.885",
+    "URL": "https://doi.org/10.1103%2Frevmodphys.80.885",
+    "author": [
+      {
+        "family": "Bloch",
+        "given": "Immanuel"
+      },
+      {
+        "family": "Dalibard",
+        "given": "Jean"
+      },
+      {
+        "family": "Zwerger",
+        "given": "Wilhelm"
+      }
+    ],
+    "container-title": "Reviews of Modern Physics",
+    "id": "Bloch_2008",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          7
+        ]
+      ]
+    },
+    "page": "885-964",
+    "publisher": "American Physical Society (APS)",
+    "title": "Many-body physics with ultracold gases",
+    "type": "article-journal",
+    "volume": "80"
+  },
+  {
+    "DOI": "10.1103/physrev.109.1492",
+    "URL": "https://doi.org/10.1103%2Fphysrev.109.1492",
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "P. W."
+      }
+    ],
+    "container-title": "Physical Review",
+    "id": "Anderson_1958",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          1958,
+          3
+        ]
+      ]
+    },
+    "page": "1492-1505",
+    "publisher": "American Physical Society (APS)",
+    "title": "Absence of Diffusion in Certain Random Lattices",
+    "type": "article-journal",
+    "volume": "109"
+  },
+  {
+    "DOI": "10.1038/nature07000",
+    "URL": "https://doi.org/10.1038%2Fnature07000",
+    "author": [
+      {
+        "family": "Billy",
+        "given": "Juliette"
+      },
+      {
+        "family": "Josse",
+        "given": "Vincent"
+      },
+      {
+        "family": "Zuo",
+        "given": "Zhanchun"
+      },
+      {
+        "family": "Bernard",
+        "given": "Alain"
+      },
+      {
+        "family": "Hambrecht",
+        "given": "Ben"
+      },
+      {
+        "family": "Lugan",
+        "given": "Pierre"
+      },
+      {
+        "family": "Clément",
+        "given": "David"
+      },
+      {
+        "family": "Sanchez-Palencia",
+        "given": "Laurent"
+      },
+      {
+        "family": "Bouyer",
+        "given": "Philippe"
+      },
+      {
+        "family": "Aspect",
+        "given": "Alain"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Billy_2008",
+    "issue": "7197",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          6
+        ]
+      ]
+    },
+    "page": "891-894",
+    "publisher": "Springer Nature",
+    "title": "Direct observation of Anderson localization of matter waves in a controlled disorder",
+    "type": "article-journal",
+    "volume": "453"
+  },
+  {
+    "DOI": "10.1038/nature07071",
+    "URL": "https://doi.org/10.1038%2Fnature07071",
+    "author": [
+      {
+        "family": "Roati",
+        "given": "Giacomo"
+      },
+      {
+        "family": "D’Errico",
+        "given": "Chiara"
+      },
+      {
+        "family": "Fallani",
+        "given": "Leonardo"
+      },
+      {
+        "family": "Fattori",
+        "given": "Marco"
+      },
+      {
+        "family": "Fort",
+        "given": "Chiara"
+      },
+      {
+        "family": "Zaccanti",
+        "given": "Matteo"
+      },
+      {
+        "family": "Modugno",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Modugno",
+        "given": "Michele"
+      },
+      {
+        "family": "Inguscio",
+        "given": "Massimo"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Roati_2008",
+    "issue": "7197",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          6
+        ]
+      ]
+    },
+    "page": "895-898",
+    "publisher": "Springer Nature",
+    "title": "Anderson localization of a non-interacting BoseEinstein condensate",
+    "type": "article-journal",
+    "volume": "453"
+  },
+  {
+    "DOI": "10.1038/nphys2256",
+    "URL": "https://doi.org/10.1038%2Fnphys2256",
+    "author": [
+      {
+        "family": "Jendrzejewski",
+        "given": "F."
+      },
+      {
+        "family": "Bernard",
+        "given": "A."
+      },
+      {
+        "family": "Müller",
+        "given": "K."
+      },
+      {
+        "family": "Cheinet",
+        "given": "P."
+      },
+      {
+        "family": "Josse",
+        "given": "V."
+      },
+      {
+        "family": "Piraud",
+        "given": "M."
+      },
+      {
+        "family": "Pezzé",
+        "given": "L."
+      },
+      {
+        "family": "Sanchez-Palencia",
+        "given": "L."
+      },
+      {
+        "family": "Aspect",
+        "given": "A."
+      },
+      {
+        "family": "Bouyer",
+        "given": "P."
+      }
+    ],
+    "container-title": "Nature Physics",
+    "id": "Jendrzejewski_2012",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          3
+        ]
+      ]
+    },
+    "page": "398-403",
+    "publisher": "Springer Nature",
+    "title": "Three-dimensional localization of ultracold atoms in an optical disordered potential",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.1126/science.1209019",
+    "URL": "https://doi.org/10.1126%2Fscience.1209019",
+    "author": [
+      {
+        "family": "Kondov",
+        "given": "S. S."
+      },
+      {
+        "family": "McGehee",
+        "given": "W. R."
+      },
+      {
+        "family": "Zirbel",
+        "given": "J. J."
+      },
+      {
+        "family": "DeMarco",
+        "given": "B."
+      }
+    ],
+    "container-title": "Science",
+    "id": "Kondov_2011",
+    "issue": "6052",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "page": "66-68",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "title": "Three-Dimensional Anderson Localization of Ultracold Matter",
+    "type": "article-journal",
+    "volume": "334"
+  },
+  {
+    "DOI": "10.1038/nphys3339",
+    "URL": "https://doi.org/10.1038%2Fnphys3339",
+    "author": [
+      {
+        "family": "Semeghini",
+        "given": "G."
+      },
+      {
+        "family": "Landini",
+        "given": "M."
+      },
+      {
+        "family": "Castilho",
+        "given": "P."
+      },
+      {
+        "family": "Roy",
+        "given": "S."
+      },
+      {
+        "family": "Spagnolli",
+        "given": "G."
+      },
+      {
+        "family": "Trenkwalder",
+        "given": "A."
+      },
+      {
+        "family": "Fattori",
+        "given": "M."
+      },
+      {
+        "family": "Inguscio",
+        "given": "M."
+      },
+      {
+        "family": "Modugno",
+        "given": "G."
+      }
+    ],
+    "container-title": "Nature Physics",
+    "id": "Semeghini_2015",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          6
+        ]
+      ]
+    },
+    "page": "554-559",
+    "publisher": "Springer Nature",
+    "title": "Measurement of the mobility edge for 3D Anderson localization",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
+    "DOI": "10.1088/0034-4885/73/11/112401",
+    "URL": "https://doi.org/10.1088%2F0034-4885%2F73%2F11%2F112401",
+    "author": [
+      {
+        "family": "Chevy",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Mora",
+        "given": "Christophe"
+      }
+    ],
+    "container-title": "Reports on Progress in Physics",
+    "id": "Chevy_2010",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          10
+        ]
+      ]
+    },
+    "page": "112401",
+    "publisher": "IOP Publishing",
+    "title": "Ultra-cold polarized Fermi gases",
+    "type": "article-journal",
+    "volume": "73"
+  },
+  {
+    "DOI": "10.1103/physrevlett.103.170402",
+    "URL": "https://doi.org/10.1103%2Fphysrevlett.103.170402",
+    "author": [
+      {
+        "family": "Nascimbène",
+        "given": "S."
+      },
+      {
+        "family": "Navon",
+        "given": "N."
+      },
+      {
+        "family": "Jiang",
+        "given": "K. J."
+      },
+      {
+        "family": "Tarruell",
+        "given": "L."
+      },
+      {
+        "family": "Teichmann",
+        "given": "M."
+      },
+      {
+        "family": "McKeever",
+        "given": "J."
+      },
+      {
+        "family": "Chevy",
+        "given": "F."
+      },
+      {
+        "family": "Salomon",
+        "given": "C."
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Nascimb_ne_2009",
+    "issue": "17",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Collective Oscillations of an Imbalanced Fermi Gas: Axial Compression Modes and Polaron Effective Mass",
+    "type": "article-journal",
+    "volume": "103"
+  },
+  {
+    "DOI": "10.1103/physrevlett.102.230402",
+    "URL": "https://doi.org/10.1103%2Fphysrevlett.102.230402",
+    "author": [
+      {
+        "family": "Schirotzek",
+        "given": "André"
+      },
+      {
+        "family": "Wu",
+        "given": "Cheng-Hsun"
+      },
+      {
+        "family": "Sommer",
+        "given": "Ariel"
+      },
+      {
+        "family": "Zwierlein",
+        "given": "Martin W."
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Schirotzek_2009",
+    "issue": "23",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          6
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Observation of Fermi Polarons in a Tunable Fermi Liquid of Ultracold Atoms",
+    "type": "article-journal",
+    "volume": "102"
+  },
+  {
+    "DOI": "10.1103/physrevx.6.041041",
+    "URL": "https://doi.org/10.1103%2Fphysrevx.6.041041",
+    "author": [
+      {
+        "family": "Rentrop",
+        "given": "T."
+      },
+      {
+        "family": "Trautmann",
+        "given": "A."
+      },
+      {
+        "family": "Olivares",
+        "given": "F.\\hspace{0.167em}A."
+      },
+      {
+        "family": "Jendrzejewski",
+        "given": "F."
+      },
+      {
+        "family": "Komnik",
+        "given": "A."
+      },
+      {
+        "family": "Oberthaler",
+        "given": "M.\\hspace{0.167em}K."
+      }
+    ],
+    "container-title": "Physical Review X",
+    "id": "Rentrop_2016",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Observation of the Phononic Lamb Shift with a Synthetic Vacuum",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.1103/physrevlett.117.055302",
+    "URL": "https://doi.org/10.1103%2Fphysrevlett.117.055302",
+    "author": [
+      {
+        "family": "Jørgensen",
+        "given": "Nils B."
+      },
+      {
+        "family": "Wacker",
+        "given": "Lars"
+      },
+      {
+        "family": "Skalmstang",
+        "given": "Kristoffer T."
+      },
+      {
+        "family": "Parish",
+        "given": "Meera M."
+      },
+      {
+        "family": "Levinsen",
+        "given": "Jesper"
+      },
+      {
+        "family": "Christensen",
+        "given": "Rasmus S."
+      },
+      {
+        "family": "Bruun",
+        "given": "Georg M."
+      },
+      {
+        "family": "Arlt",
+        "given": "Jan J."
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "J_rgensen_2016",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          7
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Observation of Attractive and Repulsive Polarons in a Bose-Einstein Condensate",
+    "type": "article-journal",
+    "volume": "117"
+  },
+  {
+    "DOI": "10.1103/physrevlett.117.055301",
+    "URL": "https://doi.org/10.1103%2Fphysrevlett.117.055301",
+    "author": [
+      {
+        "family": "Hu",
+        "given": "Ming-Guang"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Graaff",
+        "given": "Michael J. Van"
+      },
+      {
+        "family": "Kedar",
+        "given": "Dhruv"
+      },
+      {
+        "family": "Corson",
+        "given": "John P."
+      },
+      {
+        "family": "Cornell",
+        "given": "Eric A."
+      },
+      {
+        "family": "Jin",
+        "given": "Deborah S."
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Hu_2016",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          7
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Bose Polarons in the Strongly Interacting Regime",
+    "type": "article-journal",
+    "volume": "117"
+  },
+  {
+    "DOI": "10.1103/physrevlett.111.215304",
+    "URL": "https://doi.org/10.1103%2Fphysrevlett.111.215304",
+    "author": [
+      {
+        "family": "Bauer",
+        "given": "Johannes"
+      },
+      {
+        "family": "Salomon",
+        "given": "Christophe"
+      },
+      {
+        "family": "Demler",
+        "given": "Eugene"
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Bauer_2013",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          11
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Realizing a Kondo-Correlated State with Ultracold Atoms",
+    "type": "article-journal",
+    "volume": "111"
+  },
+  {
+    "DOI": "10.1103/physrevlett.111.135301",
+    "URL": "https://doi.org/10.1103%2Fphysrevlett.111.135301",
+    "author": [
+      {
+        "family": "Nishida",
+        "given": "Yusuke"
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Nishida_2013",
+    "issue": "13",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          9
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "SU(3) Orbital Kondo Effect with Ultracold Atoms",
+    "type": "article-journal",
+    "volume": "111"
+  },
+  {
+    "DOI": "10.1103/physrevb.91.165131",
+    "URL": "https://doi.org/10.1103%2Fphysrevb.91.165131",
+    "author": [
+      {
+        "family": "Kuzmenko",
+        "given": "I."
+      },
+      {
+        "family": "Kuzmenko",
+        "given": "T."
+      },
+      {
+        "family": "Avishai",
+        "given": "Y."
+      },
+      {
+        "family": "Kikoin",
+        "given": "K."
+      }
+    ],
+    "container-title": "Physical Review B",
+    "id": "Kuzmenko_2015",
+    "issue": "16",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Model for overscreened Kondo effect in ultracold Fermi gas",
+    "type": "article-journal",
+    "volume": "91"
+  },
+  {
+    "DOI": "10.1103/physreva.93.023635",
+    "URL": "https://doi.org/10.1103%2Fphysreva.93.023635",
+    "author": [
+      {
+        "family": "Sundar",
+        "given": "Bhuvanesh"
+      },
+      {
+        "family": "Mueller",
+        "given": "Erich J."
+      }
+    ],
+    "container-title": "Physical Review A",
+    "id": "Sundar_2016",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2
+        ]
+      ]
+    },
+    "publisher": "American Physical Society (APS)",
+    "title": "Proposal to directly observe the Kondo effect through enhanced photoinduced scattering of cold fermionic and bosonic atoms",
+    "type": "article-journal",
+    "volume": "93"
+  },
+  {
+    "DOI": "10.1038/nphys1535",
+    "URL": "https://doi.org/10.1038%2Fnphys1535",
+    "author": [
+      {
+        "family": "Gorshkov",
+        "given": "A. V."
+      },
+      {
+        "family": "Hermele",
+        "given": "M."
+      },
+      {
+        "family": "Gurarie",
+        "given": "V."
+      },
+      {
+        "family": "Xu",
+        "given": "C."
+      },
+      {
+        "family": "Julienne",
+        "given": "P. S."
+      },
+      {
+        "family": "Ye",
+        "given": "J."
+      },
+      {
+        "family": "Zoller",
+        "given": "P."
+      },
+      {
+        "family": "Demler",
+        "given": "E."
+      },
+      {
+        "family": "Lukin",
+        "given": "M. D."
+      },
+      {
+        "family": "Rey",
+        "given": "A. M."
+      }
+    ],
+    "container-title": "Nature Physics",
+    "id": "Gorshkov_2010",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          2
+        ]
+      ]
+    },
+    "page": "289-295",
+    "publisher": "Springer Nature",
+    "title": "Two-orbital SU(N) magnetism with ultracold alkaline-earth atoms",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.1038/nature22362",
+    "URL": "https://doi.org/10.1038%2Fnature22362",
+    "author": [
+      {
+        "family": "Mazurenko",
+        "given": "Anton"
+      },
+      {
+        "family": "Chiu",
+        "given": "Christie S."
+      },
+      {
+        "family": "Ji",
+        "given": "Geoffrey"
+      },
+      {
+        "family": "Parsons",
+        "given": "Maxwell F."
+      },
+      {
+        "family": "Kanász-Nagy",
+        "given": "Márton"
+      },
+      {
+        "family": "Schmidt",
+        "given": "Richard"
+      },
+      {
+        "family": "Grusdt",
+        "given": "Fabian"
+      },
+      {
+        "family": "Demler",
+        "given": "Eugene"
+      },
+      {
+        "family": "Greif",
+        "given": "Daniel"
+      },
+      {
+        "family": "Greiner",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Mazurenko_2017",
+    "issue": "7655",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    },
+    "page": "462-466",
+    "publisher": "Springer Nature",
+    "title": "A cold-atom FermiHubbard antiferromagnet",
+    "type": "article-journal",
+    "volume": "545"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1708.03810",
+    "author": [
+      {
+        "family": "Riegger",
+        "given": "Luis"
+      },
+      {
+        "family": "Oppong",
+        "given": "Nelson Darkwah"
+      },
+      {
+        "family": "Höfer",
+        "given": "Moritz"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Diogo Rio"
+      },
+      {
+        "family": "Bloch",
+        "given": "Immanuel"
+      },
+      {
+        "family": "Fölling",
+        "given": "Simon"
+      }
+    ],
+    "container-title": "arXiv",
+    "id": "fölling2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "note": "Accessed on Thu, October 05, 2017",
+    "publisher": "https://arxiv.org/abs/1708.03810",
+    "title": "Localized magnetic moments with tunable spin exchange in a gas of ultracold fermions",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1016/j.physletb.2016.07.036",
+    "URL": "https://doi.org/10.1016%2Fj.physletb.2016.07.036",
+    "author": [
+      {
+        "family": "Kasper",
+        "given": "V."
+      },
+      {
+        "family": "Hebenstreit",
+        "given": "F."
+      },
+      {
+        "family": "Oberthaler",
+        "given": "M. K."
+      },
+      {
+        "family": "Berges",
+        "given": "J."
+      }
+    ],
+    "container-title": "Physics Letters B",
+    "id": "Kasper_2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    },
+    "page": "742-746",
+    "publisher": "Elsevier BV",
+    "title": "Schwinger pair production with ultracold atoms",
+    "type": "article-journal",
+    "volume": "760"
+  },
+  {
+    "DOI": "10.1088/1367-2630/aa54e0",
+    "URL": "https://doi.org/10.1088%2F1367-2630%2Faa54e0",
+    "author": [
+      {
+        "family": "Kasper",
+        "given": "V"
+      },
+      {
+        "family": "Hebenstreit",
+        "given": "F"
+      },
+      {
+        "family": "Jendrzejewski",
+        "given": "F"
+      },
+      {
+        "family": "Oberthaler",
+        "given": "M K"
+      },
+      {
+        "family": "Berges",
+        "given": "J"
+      }
+    ],
+    "container-title": "New Journal of Physics",
+    "id": "Kasper_2017",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          2
+        ]
+      ]
+    },
+    "page": "023030",
+    "publisher": "IOP Publishing",
+    "title": "Implementing quantum electrodynamics with ultracold atomic systems",
+    "type": "article-journal",
+    "volume": "19"
+  },
+  {
+    "DOI": "10.22541/au.150663310.07882650",
+    "URL": "https://doi.org/10.22541%2Fau.150663310.07882650",
+    "author": [
+      {
+        "family": "Jendrzejewski",
+        "given": "Fred"
+      },
+      {
+        "family": "Zache",
+        "given": "Torsten"
+      },
+      {
+        "dropping-particle": "philipp",
+        "family": "hauke"
+      }
+    ],
+    "id": "Jendrzejewski",
+    "publisher": "Authorea Inc.",
+    "title": "What are dynamical gauge fields ? A simplistic introduction by an AMO experimentalist.",
+    "type": "no-type"
+  }
+]
