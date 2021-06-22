@@ -166,3 +166,23 @@
 .article-header-caption {
   text-align: start;
 }
+
+/* Fix alignment of project images on homepage */
+@media screen and (min-width: 990) {
+  .mt-5, .my-5 {
+    margin-top: 0 !important;
+  }
+}
+
+
+/* Make the project boxes all the same height, independent of actual content to look nicer */
+/*@media screen and (min-width: 768px) {
+  div.project-card{
+    height: 483px;
+  }
+
+  div.project-card > div.card {
+    height: 100%;
+  }
+}*/
+
