@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Investigating synthetic quantum systems with ultracold matter."
+description = "Investigating quantum many-body physics."
 
 ############################
 ## Site Features
@@ -74,7 +74,7 @@ diagram = false
 privacy_pack = true
 
 # Show related content at the bottom of pages?
-show_related = {post = true, project = true, publication = true, talk = true}
+show_related = {post = true, project = false, publication = true, talk = false}
 
 ############################
 ## Contact details
@@ -84,8 +84,8 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = " info@synqs.org"
-phone = "+49 6221 54 5171"
+email = "marting@kip.uni-heidelberg.de"
+phone = "+49 6221 54 5185"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -108,7 +108,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/synqs"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/GaerttnerGroup"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -123,7 +123,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "synqs"
+twitter = "GaerttnerGroup"
 
 ############################
 ## Regional Settings
@@ -143,7 +143,7 @@ address_format = "de"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
@@ -194,7 +194,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 2
+  engine = 0
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -253,7 +253,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "G-N2845W2HYQ"
+  google_analytics = "G-8RN5W088GW"
   google_tag_manager = ""
 
 ############################

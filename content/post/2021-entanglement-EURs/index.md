@@ -10,7 +10,6 @@ authors:
 - stockdale
 
 projects:
-- physical-computation
 - entanglement
 ---
 Entanglement is an inherently quantum phenomenon with no classical counterpart. It has baffled Einstein, Heisenberg, and nearly every physicist since.

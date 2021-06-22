@@ -9,7 +9,7 @@ organizations:
 - name: Heidelberg University
   url: "https://www.uni-heidelberg.de"
 
-superuser: false
+superuser: true
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -18,7 +18,7 @@ superuser: false
 social:
 - icon: link
   icon_pack: fas
-  link: https://mbqd.de/
+  link: https://www.kip.uni-heidelberg.de/user/marting/
 - icon: envelope
   icon_pack: fas
   link: "mailto:martin.gaerttner@kip.uni-heidelberg.de"  # For a direct email link, use "mailto:test@example.org".
@@ -43,7 +43,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 
 # Weights for ordering
 # Principal Investigator: 1-9,

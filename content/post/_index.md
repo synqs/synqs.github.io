@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-In this section we have accumulate a few notes. Typically they were not fitting for research publications, but still felt worth sharing. So feel free to comment if it is not as clear as the rather polished [research publications]({{< ref "/publication/_index.md" >}}).
+In this Blog we post thoughts and and ideas that came up in the group and that we consider worth sharing. Feel free to comment if it is not as clear as the rather polished [research publications]({{< ref "/publication/_index.md" >}}).

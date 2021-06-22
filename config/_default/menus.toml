@@ -28,9 +28,14 @@
 
 [[main]]
   name = "Talks & Posters"
-    url = "talk"
-    parent = "research"
-    weight = 30
+  url = "talk"
+  parent = "research"
+  weight = 30
+
+[[main]]
+  name = "People"
+  url = "people"
+  weight = 30
 
 [[main]]
   name = "Teaching"
@@ -38,21 +43,11 @@
   weight = 40
 
 [[main]]
-  name = "Technology"
-  url = "technologies"
-  weight = 50
-
-[[main]]
-  name = "People"
-  url = "people"
-  weight = 60
-
-[[main]]
   name = "Blog"
   url = "post"
-  weight = 70
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 80
+  weight = 60

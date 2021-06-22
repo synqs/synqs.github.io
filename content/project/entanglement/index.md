@@ -1,19 +1,14 @@
 ---
-title: Entanglement
-summary: Harnessing quantum correlations
+title: Entanglement detection
+summary: Certifying and quantifying entanglement in experimental data
 
 # Short title used in page links (if not set, defaults to title)
 title_short: Entanglement
 
 authors:
-- pruefer
-- strobel
-- schmied
-- lannig
-- strobel
-- gasenzer
 - gaerttner
-- oberthaler
+- stockdale
+- euler
 
 # Determines ordering of projects
 weight: 1
@@ -50,5 +45,5 @@ slides: ""
 math: true
 ---
 
-In  quantum mechanics, two distant particles can be in an entangled state, meaning that they are "connected" in a way that cannot be described by classical correlations. It seems that measuring one of the particles can instantaneously affect the other one. This "spooky action at a distance", as Einstein called it, has puzzled physicists since the early days of quantum mechanics and is still an active research topic. Besides being of fundamental interest, entanglement is the fuel that quantum computers and quantum communication devices consume.
-In the SynQS group we use perfectly controlled gases of ultracold atoms to explore both the fundamental aspects and applications of entanglement. For example, we observed the "spooky action" between two spatially separated parts of an atomic cloud and generated entanglement that can help improving the precision of atomic clocks and magnetometers.
+Entanglement, which Erwin Schrödinger coined the characteristic treat of quantum mechanics, is the resource that renders many quantum technologies superior to their classical counterparts. At the same time entanglement is at the heart of many physical phenomena. For example, it explains why interacting quantum systems, even when perfectly isolated from their environment, can relax to thermal equilibrium. Thus, techniques for detecting and quantifying entanglement based on experimental data are direly needed. We develop such techniques with a special focus on the application to experiments with ultra-cold atoms.
+

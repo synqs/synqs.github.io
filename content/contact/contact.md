@@ -15,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-
+  
   # Email form provider
   form:
     provider: netlify
@@ -28,3 +28,4 @@ content:
 design:
   columns: '1'
 ---
+
