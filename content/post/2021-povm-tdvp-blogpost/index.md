@@ -20,7 +20,7 @@ links:
   - icon_pack: fas
     icon: arrow-circle-right
     name: Publication
-    url: /publication/reh-2021/
+    url: /publication/2021/reh-2021/
 ---
 
 ## Time-dependent variational principle for open quantum systems with artificial neural networks
