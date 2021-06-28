@@ -36,4 +36,3 @@ If you would like to add your talk/poster to the website it might be best to ins
 Sometimes you have weird bugs in your local build. You can just test if you can get rid of them by cleaning out the cacbe:
 
 - `hugo mod clean` cleans things out
-- `hugo mod get -u` reinstalls the extensions
