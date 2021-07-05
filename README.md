@@ -1,7 +1,7 @@
 # Website of Synqs based on Wowchemy
 
-- [**Get Started**](https://wowchemy.com/templates/)
-- [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import publications from BibTeX
+- [Wowchemy. the framework behind our website](https://wowchemy.com/templates/)
+- [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/): Automatically import publications from BibTeX
 
 # Howto update my profile
 - Your profile lives in 'content/authors/YOUR-NAME'
