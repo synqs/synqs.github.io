@@ -37,9 +37,7 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Matterwave
-- BECK
+- Alumnis
 
 # Weights for ordering
 # Principal Investigator: 1-9,
