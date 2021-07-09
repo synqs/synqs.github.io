@@ -19,6 +19,7 @@ content:
   - Principal Investigators
   - Administration
   - Researchers
+  - Collaborators
   - Alumnis
 design:
   show_interests: false
