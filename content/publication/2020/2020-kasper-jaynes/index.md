@@ -5,7 +5,7 @@ title: 'From the Jaynes–Cummings model to non-abelian gauge theories: a guided
 subtitle: ''
 summary: ''
 authors:
-- Valentin Kasper
+- kasper
 - Gediminas Juzeliūnas
 - Maciej Lewenstein  
 - jendrzejewski

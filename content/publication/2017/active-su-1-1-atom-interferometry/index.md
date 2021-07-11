@@ -7,7 +7,7 @@ authors:
   - J. Schulz
   - W. Muessel
   - P. Kunkel
-  - M. Prüfer
+  - pruefer
   - A. Frölian
   - strobel
   - oberthaler
